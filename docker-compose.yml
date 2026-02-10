@@ -1,0 +1,73 @@
+version: '3.8'
+
+services:
+  # MySQL Database
+  database:
+    image: mysql:8.0
+    container_name: security-platform-db
+    restart: always
+    environment:
+      MYSQL_ROOT_PASSWORD: ${DB_ROOT_PASSWORD:-yourrootpassword}
+      MYSQL_DATABASE: ${DB_NAME:-yourdatabase}
+      MYSQL_USER: ${DB_USER:-yourname}
+      MYSQL_PASSWORD: ${DB_PASSWORD:-yourpassword}
+    ports:
+      - "3306:3306"
+    volumes:
+      - mysql_data:/var/lib/mysql
+      - ./database/init:/docker-entrypoint-initdb.d
+    networks:
+      - security-platform-network
+    healthcheck:
+      test: ["CMD", "mysqladmin", "ping", "-h", "localhost"]
+      interval: 10s
+      timeout: 5s
+      retries: 5
+
+  # Backend API (FastAPI)
+  backend:
+    build:
+      context: ./backend
+      dockerfile: Dockerfile
+    container_name: security-backend
+    restart: always
+    ports:
+      - "8000:8000"
+    environment:
+      - DB_HOST=database
+      - DB_USER=${DB_USER:-yourname}
+      - DB_PASSWORD=${DB_PASSWORD:-yourpassword}
+      - DB_NAME=${DB_NAME:-yourdatabase}
+      - OPENAI_API_KEY=${OPENAI_API_KEY}
+    volumes:
+      - ./backend:/app
+      - /app/__pycache__
+    depends_on:
+      database:
+        condition: service_healthy
+    networks:
+      - security-platform-network
+
+  # Frontend (Next.js)
+  frontend:
+    build:
+      context: ./frontend
+      dockerfile: Dockerfile
+    container_name: security-frontend
+    restart: always
+    ports:
+      - "4200:4200"
+    environment:
+      - NODE_ENV=production
+      - NEXT_PUBLIC_API_URL=http://backend:8000
+    depends_on:
+      - backend
+    networks:
+      - security-platform-network
+
+networks:
+  security-platform-network:
+    driver: bridge
+
+volumes:
+  mysql_data:

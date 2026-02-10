@@ -1,0 +1,15 @@
+[Unit]
+Description=Security Platform Backend API
+After=network.target
+
+[Service]
+Type=simple
+User=dacon
+WorkingDirectory=/home/dacon/project/backend
+Environment="PATH=/usr/anaconda3/bin:/usr/local/bin:/usr/bin:/bin"
+ExecStart=/usr/anaconda3/bin/python /home/dacon/project/backend/main.py
+Restart=always
+RestartSec=3
+
+[Install]
+WantedBy=multi-user.target

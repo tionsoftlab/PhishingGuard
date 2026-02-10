@@ -1,0 +1,17 @@
+{
+  "model_type": "Random Forest",
+  "dataset": "Type1",
+  "accuracy": 0.9803921568627451,
+  "confusion_matrix": [
+    [
+      313,
+      1
+    ],
+    [
+      6,
+      37
+    ]
+  ],
+  "n_estimators": 100,
+  "max_depth": 15
+}

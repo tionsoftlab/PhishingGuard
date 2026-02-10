@@ -1,0 +1,6 @@
+en.pt File : 
+1. https://cslab.kku.ac.kr:3000/models/en.pt
+2. https://drive.google.com/file/d/1E55_MBHmkCtHVdNHhPMYiUjANRJUivY2/view?usp=sharing
+ko.pt File : 
+1. https://cslab.kku.ac.kr:3000/models/ko.pt
+2. https://drive.google.com/file/d/1rMf_4ZupoMeFLlOHn5aKcrqMvA7xWDBq/view?usp=sharing

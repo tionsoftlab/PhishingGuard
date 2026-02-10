@@ -1,0 +1,1782 @@
+URL_LENGTH,NUMBER_SPECIAL_CHARACTERS,CHARSET,SERVER,CONTENT_LENGTH,WHOIS_COUNTRY,WHOIS_STATEPRO,WHOIS_DATE_DIFF,DNS_QUERY_TIMES,Type
+16,7,iso-8859-1,nginx,263,Unknown,Unknown,-1,2,1
+16,6,UTF-8,Apache/2.4.10,15087,Unknown,Unknown,-1,0,-1
+16,6,us-ascii,Microsoft-HTTPAPI/2.0,324,Unknown,Unknown,-1,0,-1
+17,6,ISO-8859-1,nginx,162,US,AK,5818,8,-1
+17,6,UTF-8,Unknown,124140,US,TX,7639,4,-1
+18,7,UTF-8,nginx,-1,SC,Mahe,60,0,-1
+18,6,iso-8859-1,Apache/2,345,US,CO,5086,2,-1
+19,6,us-ascii,Microsoft-HTTPAPI/2.0,324,US,FL,7306,0,-1
+20,5,utf-8,nginx/1.10.1,-1,Unknown,Unknown,-1,2,1
+20,5,utf-8,nginx/1.10.1,-1,Unknown,Unknown,-1,2,1
+20,6,utf-8,Apache,-1,US,Kansas,2917,0,-1
+20,6,us-ascii,Microsoft-HTTPAPI/2.0,324,US,CO,1,0,-1
+20,7,utf-8,Unknown,13716,GB,Unknown,5109,4,-1
+20,6,ISO-8859-1,nginx,3692,Unknown,Unknown,4539,10,-1
+20,7,ISO-8859-1,Apache/2.2.15 (Red Hat),13054,Unknown,Unknown,-1,0,-1
+21,7,ISO-8859-1,Apache/2.4.23 (Unix) OpenSSL/1.0.1e-fips mod_bwlimited/1.4,957,UK,Unknown,5466,4,1
+21,7,iso-8859-1,nginx,686,RU,Novosibirskaya obl.,1094,2,1
+21,6,us-ascii,Microsoft-HTTPAPI/2.0,324,Unknown,Unknown,5664,0,-1
+21,6,utf-8,nginx,15025,Unknown,Unknown,-1,2,-1
+22,7,us-ascii,Microsoft-HTTPAPI/2.0,324,US,CO,1259,2,1
+22,6,utf-8,openresty/1.11.2.1,-1,US,CA,5879,4,-1
+22,6,iso-8859-1,nginx,318,US,Tennessee,4257,0,-1
+22,6,iso-8859-1,Apache/2.2.22,224,Unknown,Unknown,2891,0,-1
+22,7,utf-8,Apache/2.4.7 (Ubuntu),4421,AU,Vi,2551,4,-1
+22,6,UTF-8,nginx/1.12.0,-1,US,FL,4982,4,-1
+22,6,ISO-8859-1,Apache,441,US,OR,4431,0,-1
+22,6,ISO-8859-1,nginx/1.12.0,-1,US,Texas,4018,0,-1
+22,6,utf-8,nginx,6671,CA,ALBERTA,5902,0,-1
+23,6,utf-8,Apache,-1,US,FL,3274,2,-1
+23,6,iso-8859-1,Apache/2.4.12 (Unix) OpenSSL/1.0.1e-fips mod_bwlimited/1.4,434,PA,PANAMA,3293,0,-1
+23,6,us-ascii,Microsoft-HTTPAPI/2.0,324,se,Unknown,5815,0,-1
+23,6,utf-8,nginx,13001,Unknown,Unknown,-1,0,-1
+23,7,ISO-8859-1,Oracle-iPlanet-Web-Server/7.0,3257,Unknown,Unknown,6040,0,-1
+23,6,ISO-8859-1,Unknown,6748,US,Arizona,6309,0,-1
+23,7,UTF-8,nginx,-1,Unknown,Unknown,-1,0,-1
+23,6,Unknown,Unknown,-1,US,TX,7279,4,-1
+23,6,UTF-8,Unknown,-1,GB,Unknown,2758,4,-1
+23,6,UTF-8,Unknown,-1,US,WI,6303,4,-1
+23,6,UTF-8,cloudflare-nginx,-1,US,Oregon,6486,4,-1
+23,6,ISO-8859-1,nginx/1.12.0,-1,IN,Andhra Pradesh,5115,4,-1
+23,6,iso-8859-1,Apache,240,US,CA,2923,2,-1
+23,6,ISO-8859-1,Apache,3985,CA,AB,5115,6,-1
+23,6,us-ascii,Microsoft-HTTPAPI/2.0,324,Unknown,Unknown,3998,0,-1
+24,8,ISO-8859-1,nginx/1.6.2,6173,Unknown,Unknown,-1,0,1
+24,9,iso-8859-1,Apache,319,IN,Tamil Nadu,-1,2,1
+24,6,utf-8,openresty,-1,LU,Unknown,3994,12,-1
+24,6,ISO-8859-1,Unknown,34,US,VA,7388,4,-1
+24,7,utf-8,nginx,-1,US,NY,8016,4,-1
+24,6,utf-8,Heptu web server,1778,Unknown,Unknown,5419,0,-1
+24,6,utf-8,Pepyaka/1.11.3,-1,Unknown,Unknown,367,0,-1
+24,6,us-ascii,Microsoft-HTTPAPI/2.0,324,CA,quebec,2193,0,-1
+24,8,iso-8859-1,Apache/2.2.22,224,US,MA,2871,4,-1
+24,6,utf-8,nginx/1.8.0,-1,CA,ON,5113,4,-1
+24,7,iso-8859-1,Apache,318,Unknown,Unknown,-1,4,-1
+24,7,utf-8,nginx/1.10.1 + Phusion Passenger 5.0.30,-1,Unknown,Unknown,8034,6,-1
+24,6,iso-8859-1,Apache/2,345,US,New Mexico,3289,2,-1
+24,6,UTF-8,Apache,756,PA,PANAMA,6794,4,-1
+25,6,utf-8,Apache/2.2.29 (Amazon),-1,CA,British Columbia,4318,0,-1
+25,7,utf-8,nginx,-1,US,NY,8016,0,-1
+25,6,UTF-8,nginx,14839,US,NY,4351,0,-1
+25,6,us-ascii,Microsoft-IIS/7.5,324,US,Massachusetts,3289,0,-1
+25,6,UTF-8,LiteSpeed,-1,Unknown,Unknown,3214,0,-1
+25,6,UTF-8,Apache,-1,US,California,3648,4,-1
+25,6,UTF-8,nginx,658,Unknown,Unknown,-1,4,-1
+25,6,UTF-8,Unknown,-1,TH,bangkok,2507,4,-1
+25,6,ISO-8859-1,Apache,-1,US,CA,7246,6,-1
+25,6,UTF-8,Apache,195,GB,WEST MIDLANDS,159,0,-1
+25,6,us-ascii,Microsoft-HTTPAPI/2.0,324,US,CO,65,0,-1
+25,6,ISO-8859-1,Apache,-1,US,California,2554,0,-1
+26,8,UTF-8,nginx,-1,Unknown,Unknown,-1,2,1
+26,8,utf-8,nginx,-1,Unknown,Unknown,-1,2,1
+26,7,ISO-8859-1,nginx/1.12.0,4166,US,TEXAS,2922,6,1
+26,7,ISO-8859-1,Apache/2.4.23 (Unix) OpenSSL/1.0.1e-fips mod_bwlimited/1.4,962,GB,WC1N,5775,2,1
+26,7,ISO-8859-1,Apache/2.4.23 (Unix) OpenSSL/1.0.1e-fips mod_bwlimited/1.4,962,GB,WC1N,5480,4,1
+26,7,ISO-8859-1,Apache/2.4.23 (Unix) OpenSSL/1.0.1e-fips mod_bwlimited/1.4,962,GB,WC1N,5480,4,1
+26,6,utf-8,nginx,2688,US,Kentucky,6683,0,-1
+26,7,UTF-8,cloudflare-nginx,-1,US,MD,6109,0,-1
+26,6,UTF-8,nginx,-1,CA,ON,5488,0,-1
+26,6,iso-8859-1,Apache,199,PA,PANAMA,3260,0,-1
+26,6,UTF-8,Apache/2.4.25 (cPanel) OpenSSL/1.0.1e-fips mod_bwlimited/1.4,3548,Unknown,Unknown,6940,6,-1
+26,7,utf-8,nginx,-1,US,NY,8016,4,-1
+26,6,Unknown,tsa_c,0,US,CA,6136,10,-1
+26,6,ISO-8859-1,nginx/1.12.0,5426,US,NEW YORK,2863,0,-1
+26,7,utf-8,Apache/2.2.0 (Fedora),-1,Unknown,Unknown,5906,0,-1
+26,6,UTF-8,Unknown,-1,CA,British Columbia,6824,0,-1
+26,6,iso-8859-1,Apache/2,345,US,FL,5054,4,-1
+26,7,utf-8,nginx,-1,US,NY,8016,4,-1
+26,7,utf-8,nginx,-1,US,NY,8016,4,-1
+26,6,utf-8,cloudflare-nginx,-1,US,Washington,6139,4,-1
+26,6,ISO-8859-1,nginx/1.12.0,-1,US,Colorado,1765,0,-1
+26,6,us-ascii,Unknown,324,US,TX,5089,0,-1
+26,6,UTF-8,cloudflare-nginx,-1,US,PA,8370,0,-1
+26,6,UTF-8,nginx,-1,US,LA,2204,0,-1
+26,6,utf-8,nginx/1.12.0,-1,US,Arizona,2870,0,-1
+27,7,UTF-8,Apache/2.2.22 (Debian),8756,GB,WC1N,5723,6,1
+27,7,UTF-8,Apache,193,US,PA,774,2,1
+27,8,UTF-8,nginx,-1,US,WA,488,0,-1
+27,6,us-ascii,Microsoft-HTTPAPI/2.0,324,US,CO,1,0,-1
+27,6,utf-8,openresty/1.11.2.1,-1,US,TEXAS,2678,0,-1
+27,6,UTF-8,Apache/2.2.15 (CentOS),-1,AU,Queensland,2254,6,-1
+27,6,UTF-8,Apache/2.4.25,7967,Unknown,Unknown,7301,2,-1
+27,7,ISO-8859-1,Apache,11506,US,FL,6883,0,-1
+28,9,UTF-8,Apache/2.2.15 (CentOS),-1,RU,MOSCOW,3286,2,1
+28,7,us-ascii,Microsoft-HTTPAPI/2.0,324,US,FL,3645,4,1
+28,8,utf-8,nginx,39036,[u'GB'; u'UK'],UK,5465,0,-1
+28,6,ISO-8859-1,Unknown,-1,US,CA,7185,0,-1
+28,7,iso-8859-1,Apache,-1,FR,Unknown,2921,0,-1
+28,7,ISO-8859-1,cloudflare-nginx,-1,NL,P,6306,0,-1
+28,7,us-ascii,Unknown,-1,US,NH,4371,0,-1
+28,7,ISO-8859-1,cloudflare-nginx,-1,NL,P,6306,0,-1
+28,6,us-ascii,Microsoft-IIS/7.5,324,US,Pennsylvania,6741,0,-1
+28,7,utf-8,Apache,8578,CA,ON,7669,8,-1
+28,6,UTF-8,Apache,10576,IN,UTTAR PRADESH,2074,0,-1
+28,7,us-ascii,Microsoft-IIS/7.5,324,Unknown,Unknown,222,6,-1
+28,7,UTF-8,Apache/2.4.25 (Amazon) PHP/7.0.14,12846,US,NC,5998,6,-1
+28,7,UTF-8,GSE,6666,US,CA,5812,4,-1
+28,6,iso-8859-1,Apache/2.4.23 (Unix) OpenSSL/0.9.8e-fips-rhel5 mod_bwlimited/1.4,445,US,FL,5437,2,-1
+28,8,UTF-8,Apache,-1,US,Arizona,2885,2,-1
+28,7,us-ascii,Microsoft-HTTPAPI/2.0,324,Unknown,Unknown,-1,6,-1
+28,6,utf-8,Pepyaka/1.11.3,-1,US,NY,5937,0,-1
+28,6,utf-8,Unknown,-1,US,CA,6903,4,-1
+28,6,UTF-8,nginx,18438,US,California,2888,0,-1
+29,7,ISO-8859-1,Apache,7314,US,MD,2514,6,1
+29,7,us-ascii,Microsoft-HTTPAPI/2.0,324,UG,kireka,5488,2,1
+29,6,ISO-8859-1,Apache,-1,US,CA,7246,0,-1
+29,6,Unknown,tsa_c,0,US,CA,6136,0,-1
+29,8,ISO-8859-1,Apache,9136,US,CA,7977,0,-1
+29,6,UTF-8,Apache,5019,US,IL,3986,0,-1
+29,7,utf-8,nginx,-1,US,NY,8016,0,-1
+29,6,iso-8859-1,Apache/2.4.25 (Amazon) OpenSSL/1.0.1k-fips,210,US,Missouri,3469,0,-1
+29,6,UTF-8,Apache/2.2.22 (Debian),8654,JP,Osaka,0,0,-1
+29,7,iso-8859-1,Apache/2.2.22 (Ubuntu),238,CA,QC,7672,0,-1
+29,6,ISO-8859-1,Apache,26856,Unknown,Unknown,5115,4,-1
+29,6,us-ascii,Microsoft-HTTPAPI/2.0,324,US,Michigan,366,0,-1
+29,7,UTF-8,Apache/2.2.22,-1,CA,AB,4354,0,-1
+29,6,UTF-8,Apache,10210,US,CA,4480,0,-1
+29,6,ISO-8859-1,Apache,13684,US,Maryland,2962,0,-1
+29,6,us-ascii,Unknown,324,CA,Ontario,4750,0,-1
+29,6,iso-8859-1,nginx/1.12.0,770,US,South Carolina,1813,0,-1
+29,8,UTF-8,Apache/2.4.25,6813,US,Texas,3704,0,-1
+29,6,us-ascii,Microsoft-HTTPAPI/2.0,324,Unknown,Unknown,6578,4,-1
+29,6,ISO-8859-1,Unknown,34,US,California,6575,2,-1
+29,7,ISO-8859-1,Apache,-1,US,CA,7246,6,-1
+29,8,UTF-8,GSE,20404,US,CA,5812,4,-1
+29,8,UTF-8,Tengine,-1,CN,Zhejiang,4815,8,-1
+29,6,UTF-8,Apache/2.4.18 (Unix) OpenSSL/0.9.8e-fips-rhel5 mod_bwlimited/1.4,7159,US,Arizona,4424,2,-1
+29,6,utf-8,Apache/2.2.15 (CentOS),-1,US,New Mexico,4430,4,-1
+29,6,iso-8859-1,Apache,388,US,New York,2707,0,-1
+29,6,ISO-8859-1,Apache/2,199,Unknown,Unknown,5120,0,-1
+29,8,us-ascii,Microsoft-HTTPAPI/2.0,324,AU,QLD,247,0,-1
+29,6,ISO-8859-1,nginx/1.12.0,-1,CA,ON,4018,0,-1
+29,6,utf-8,Unknown,-1,US,CA,6903,0,-1
+30,8,iso-8859-1,Apache,177,Unknown,Unknown,-1,2,1
+30,6,utf-8,Apache/2.4.10 (Debian),-1,SE,Unknown,6445,0,-1
+30,6,iso-8859-1,Apache/2.4.6 (CentOS) PHP/5.6.8,199,US,MA,1496,0,-1
+30,7,utf-8,nginx,-1,US,NY,8016,4,-1
+30,6,ISO-8859-1,Unknown,-1,US,CA,7185,14,-1
+30,6,ISO-8859-1,Apache,-1,US,CA,7246,6,-1
+30,6,ISO-8859-1,Sun-ONE-Web-Server/6.1,-1,Unknown,Unknown,4693,0,-1
+30,6,Unknown,Apache/2.4.18 (Unix) OpenSSL/1.0.2e Communique/4.1.10,-1,US,WI,7300,0,-1
+30,6,UTF-8,Apache,14703,US,Texas,5510,0,-1
+30,6,UTF-8,nginx,8751,US,FL,157,4,-1
+30,6,us-ascii,Microsoft-HTTPAPI/2.0,324,US,NJ,5853,2,-1
+30,7,ISO-8859-1,Apache,-1,US,CA,7246,6,-1
+30,6,utf-8,Unknown,-1,US,CA,6903,8,-1
+30,6,ISO-8859-1,Unknown,-1,US,CA,7185,12,-1
+30,7,utf-8,AmazonS3,350,US,Arizona,5035,4,-1
+30,7,ISO-8859-1,Apache/1.3.37 (Unix) mod_perl/1.29 mod_ssl/2.8.28 OpenSSL/0.9.7e-p1,-1,US,GA,7601,4,-1
+30,8,UTF-8,cloudflare-nginx,-1,US,CA,4343,0,-1
+30,6,utf-8,Unknown,-1,US,CA,6903,0,-1
+30,7,ISO-8859-1,Apache,-1,US,CA,7246,0,-1
+31,7,us-ascii,Microsoft-IIS/7.5,324,US,CA,5459,4,1
+31,8,utf-8,ATS,604,US,CA,7525,0,-1
+31,7,iso-8859-1,Apache/2.2.27 (CentOS),287,Unknown,Unknown,732,0,-1
+31,7,ISO-8859-1,Apache,-1,US,CA,7246,0,-1
+31,8,utf-8,Apache,65815,US,MO,7462,0,-1
+31,6,ISO-8859-1,Unknown,-1,US,CA,7185,12,-1
+31,6,UTF-8,Apache/2.2.29 (Unix) mod_ssl/2.2.29 OpenSSL/1.0.1e-fips DAV/2 mod_bwlimited/1.4,-1,Unknown,Unknown,6095,0,-1
+31,7,utf-8,CherryPy/3.6.0,4075,CA,ON,7304,0,-1
+31,8,iso-8859-1,Apache/2.2.15 (CentOS),287,IN,HR,4191,4,-1
+31,7,utf-8,nginx,-1,US,NY,8016,4,-1
+31,7,UTF-8,Apache/2.2.15 (Red Hat),5132,US,FL,4372,6,-1
+31,6,us-ascii,Microsoft-IIS/7.5,324,US,Missouri,4018,6,-1
+31,6,us-ascii,Microsoft-HTTPAPI/2.0,324,Unknown,Unknown,-1,4,-1
+31,6,ISO-8859-1,Apache,-1,Unknown,Unknown,7246,6,-1
+31,8,us-ascii,Microsoft-HTTPAPI/2.0,324,US,FL,6854,2,-1
+31,6,UTF-8,Apache,-1,US,MD,3597,2,-1
+31,7,ISO-8859-1,Unknown,-1,US,CA,7185,12,-1
+31,7,utf-8,Apache,22004,US,CA,3986,0,-1
+31,6,ISO-8859-1,Apache,-1,US,CA,7246,0,-1
+31,7,iso-8859-1,Apache/2,345,US,Texas,5843,0,-1
+32,11,UTF-8,nginx,643,Unknown,Unknown,-1,8,1
+32,9,UTF-8,nginx,637,Unknown,Unknown,-1,6,1
+32,8,UTF-8,Server,-1,US,WA,7426,0,-1
+32,6,ISO-8859-1,Unknown,34,US,Missouri,5,0,-1
+32,8,UTF-8,Server,-1,US,WA,7426,0,-1
+32,9,utf-8,KHL,420762,Unknown,Unknown,-1,2,-1
+32,8,ISO-8859-1,Apache,1399,US,CA,3296,0,-1
+32,6,UTF-8,Apache,-1,CA,ab,2193,0,-1
+32,7,UTF-8,nginx,-1,US,NY,2953,0,-1
+32,7,UTF-8,nginx,-1,US,CA,6159,6,-1
+32,7,ISO-8859-1,Unknown,-1,US,CA,7185,12,-1
+32,8,UTF-8,Apache,-1,Unknown,Unknown,3218,4,-1
+32,6,utf-8,Unknown,-1,Unknown,Unknown,6903,0,-1
+32,8,utf-8,Microsoft-IIS/7.5,328,UK,Greater London,187,0,-1
+32,7,UTF-8,Apache,-1,US,Illinois,5690,8,-1
+32,8,us-ascii,Microsoft-HTTPAPI/2.0,324,Unknown,Unknown,6197,0,-1
+32,6,iso-8859-1,Apache/2.4.6 (CentOS) OpenSSL/1.0.1e-fips mod_fcgid/2.3.9 PHP/5.4.16 mod_jk/1.2.40,199,US,Kansas,3053,0,-1
+32,8,iso-8859-1,Apache,334,SI,--,2497,2,-1
+32,7,iso-8859-1,Apache/2.2.3 (CentOS),287,US,MO,6689,2,-1
+32,7,utf-8,Apache,20212,US,CA,3986,6,-1
+32,8,UTF-8,Server,-1,US,WA,7426,4,-1
+32,8,UTF-8,Server,-1,US,WA,7426,4,-1
+32,7,utf-8,Unknown,-1,Unknown,Unknown,3652,4,-1
+32,7,UTF-8,GSE,11827,US,CA,5812,4,-1
+32,8,ISO-8859-1,nginx/1.12.0,1108,US,California,4383,4,-1
+32,7,us-ascii,Unknown,324,US,Arizona,2833,0,-1
+33,11,UTF-8,nginx,646,Unknown,Unknown,-1,4,1
+33,9,UTF-8,nginx,637,Unknown,Unknown,-1,8,1
+33,9,UTF-8,nginx,640,Unknown,Unknown,-1,6,1
+33,9,UTF-8,nginx,643,Unknown,Unknown,-1,0,1
+33,9,UTF-8,nginx,-1,Unknown,Unknown,-1,4,1
+33,11,utf-8,nginx,-1,Unknown,Unknown,1929,4,1
+33,7,utf-8,cloudflare-nginx,-1,US,NY,7665,0,-1
+33,8,UTF-8,Server,-1,US,WA,7426,0,-1
+33,8,UTF-8,Server,-1,US,WA,7426,0,-1
+33,6,utf-8,Unknown,-1,US,CA,6903,0,-1
+33,6,iso-8859-1,Apache,-1,JP,Fukuoka,1083,0,-1
+33,6,utf-8,Apache/2.4,19890,CA,BC,6214,0,-1
+33,8,utf-8,nginx/1.10.1 + Phusion Passenger 5.0.30,-1,US,California,8034,0,-1
+33,9,utf-8,Unknown,18302,US,CA,7272,0,-1
+33,7,iso-8859-1,Apache,318,JP,Osaka,4,0,-1
+33,8,UTF-8,Server,-1,US,WA,7426,4,-1
+33,7,iso-8859-1,Apache/1.3.27 (Unix)  (Red-Hat/Linux) mod_perl/1.26 PHP/4.3.3 FrontPage/5.0.2 mod_ssl/2.8.12 OpenSSL/0.9.6b,-1,Unknown,Unknown,6110,0,-1
+33,6,utf-8,Apache,-1,US,Texas,3949,0,-1
+33,8,UTF-8,mw2114.codfw.wmnet,-1,US,CA,5446,8,-1
+33,7,UTF-8,GSE,60722,US,CA,5812,0,-1
+33,6,UTF-8,Apache/2.2.31 (Unix) mod_ssl/2.2.31 OpenSSL/1.0.1e-fips mod_bwlimited/1.4 mod_perl/2.0.8 Perl/v5.10.1,-1,US,Arizona,5192,0,-1
+33,6,ISO-8859-1,Apache/1.3.34 (Unix) PHP/4.4.4,-1,US,FL,4003,0,-1
+33,8,UTF-8,Server,-1,US,WA,7426,0,-1
+33,6,UTF-8,Microsoft-IIS/7.5,39,US,AL,1405,4,-1
+33,8,UTF-8,Apache/2.2.31 (Amazon),1371,IL,Unknown,5115,8,-1
+33,7,UTF-8,Jetty(9.0.z-SNAPSHOT),-1,US,NY,6459,6,-1
+33,6,ISO-8859-1,Apache,-1,US,CA,7246,0,-1
+34,11,UTF-8,nginx,655,Unknown,Unknown,-1,8,1
+34,11,UTF-8,nginx,649,Unknown,Unknown,-1,6,1
+34,9,ISO-8859-1,cloudflare-nginx,-1,ru,Krasnoyarsk,2221,6,1
+34,9,iso-8859-1,Apache,214,Unknown,Unknown,-1,2,1
+34,6,UTF-8,nginx/1.12.0,18298,US,MAINE,3288,0,-1
+34,7,us-ascii,Microsoft-HTTPAPI/2.0,324,GB,Unknown,6058,0,-1
+34,7,ISO-8859-1,Unknown,1819,US,CA,5206,0,-1
+34,7,ISO-8859-1,Unknown,1819,US,CA,5206,8,-1
+34,8,utf-8,nginx/1.10.1 + Phusion Passenger 5.0.30,-1,US,California,8034,0,-1
+34,6,utf-8,Unknown,-1,US,CA,6903,0,-1
+34,7,ISO-8859-1,Apache/2.2.31 (CentOS),-1,CA,ALBERTA,2557,0,-1
+34,7,UTF-8,nginx,-1,US,CA,6159,0,-1
+34,7,utf-8,Apache/2.4.10 (Debian),6474,US,Virginia,1232,0,-1
+34,7,utf-8,nginx,-1,CA,ON,6457,0,-1
+34,6,utf-8,Unknown,-1,Unknown,Unknown,6903,0,-1
+34,7,UTF-8,cloudflare-nginx,-1,IN,MH,3653,0,-1
+34,9,ISO-8859-1,Apache,1486,GB,Unknown,2916,0,-1
+34,9,UTF-8,Apache/2.4.12 (Ubuntu),10892,Unknown,Unknown,7259,0,-1
+34,9,ISO-8859-1,HTTPDaemon,-1,US,WA,7426,0,-1
+34,8,utf-8,Apache/2.2.31 (Amazon),7255,Unknown,Unknown,4175,6,-1
+34,7,UTF-8,GSE,6608,US,CA,5812,4,-1
+34,6,utf-8,Unknown,-1,US,CA,6903,8,-1
+34,9,ISO-8859-1,Apache/2.2.29 (Unix) mod_ssl/2.2.29 OpenSSL/1.0.1e-fips mod_bwlimited/1.4,111,US,California,4384,2,-1
+34,6,ISO-8859-1,Apache,-1,US,CA,7246,6,-1
+34,8,ISO-8859-1,nginx,996,US,CA,4118,4,-1
+34,7,ISO-8859-1,nginx,1501,US,New York,4537,6,-1
+34,7,utf-8,MediaFire,-1,US,Texas,5076,0,-1
+34,7,ISO-8859-1,Apache,-1,US,CA,7246,0,-1
+34,6,us-ascii,Microsoft-IIS/7.5,324,US,Arizona,4743,0,-1
+35,9,ISO-8859-1,Apache,7314,Unknown,Unknown,2514,6,1
+35,9,ISO-8859-1,Apache,7314,Unknown,Unknown,2514,6,1
+35,11,UTF-8,Apache,-1,CA,ON,2917,2,1
+35,11,UTF-8,nginx,652,Unknown,Unknown,-1,6,1
+35,11,UTF-8,nginx,652,Unknown,Unknown,-1,8,1
+35,9,UTF-8,nginx,646,Unknown,Unknown,-1,4,1
+35,11,UTF-8,nginx,652,Unknown,Unknown,-1,6,1
+35,11,UTF-8,nginx,652,Unknown,Unknown,-1,6,1
+35,11,UTF-8,nginx,652,Unknown,Unknown,-1,6,1
+35,11,UTF-8,nginx,652,Unknown,Unknown,-1,8,1
+35,8,ISO-8859-1,cloudflare-nginx,-1,ru,Krasnoyarsk,2441,6,1
+35,9,ISO-8859-1,DOSarrest,-1,KY,GRAND CAYMAN,7547,0,-1
+35,8,UTF-8,mw2232.codfw.wmnet,4685,US,CA,5446,0,-1
+35,8,utf-8,nginx/1.10.1 + Phusion Passenger 5.0.30,-1,US,California,8034,0,-1
+35,6,us-ascii,Microsoft-IIS/7.5,324,Unknown,Unknown,1097,2,-1
+35,8,UTF-8,Server,-1,US,WA,7426,4,-1
+35,9,us-ascii,Microsoft-HTTPAPI/2.0,324,US,CA,6720,4,-1
+35,9,utf-8,nginx,39362,[u'GB'; u'UK'],UK,5465,0,-1
+35,7,utf-8,nginx,-1,US,NY,8016,0,-1
+35,9,UTF-8,Apache,-1,US,Arizona,2482,0,-1
+35,10,utf-8,ATS,-1,US,CA,7525,0,-1
+35,7,UTF-8,Sucuri/Cloudproxy,14462,CA,ON,2547,0,-1
+35,9,UTF-8,Apache,-1,Unknown,Unknown,-1,0,-1
+35,8,UTF-8,Server,-1,US,WA,7426,0,-1
+35,7,iso-8859-1,Apache/2.4.23 (Unix),289,GB,Unknown,5726,0,-1
+35,6,us-ascii,Microsoft-HTTPAPI/2.0,324,US,PA,3067,6,-1
+35,7,UTF-8,GSE,38115,US,CA,5812,4,-1
+35,8,UTF-8,Server,-1,US,WA,7426,6,-1
+35,9,UTF-8,cloudflare-nginx,-1,Unknown,Unknown,4232,4,-1
+35,9,ISO-8859-1,Unknown,-1,US,CA,7185,12,-1
+35,7,UTF-8,GSE,8813,US,CA,5812,4,-1
+35,8,ISO-8859-1,Apache,1002,AT,Austria,4384,4,-1
+35,7,utf-8,Apache,16875,US,NY,7638,0,-1
+35,8,UTF-8,Server,-1,US,WA,7426,4,-1
+35,7,iso-8859-1,Apache,330,Unknown,Unknown,5579,2,-1
+35,6,utf-8,Unknown,-1,US,CA,6903,0,-1
+35,8,ISO-8859-1,Apache,1002,AT,Austria,4384,0,-1
+36,10,UTF-8,nginx,655,Unknown,Unknown,-1,20,1
+36,11,UTF-8,nginx,655,Unknown,Unknown,-1,4,1
+36,11,UTF-8,nginx,655,Unknown,Unknown,-1,6,1
+36,9,UTF-8,nginx,646,Unknown,Unknown,-1,4,1
+36,11,UTF-8,nginx,655,Unknown,Unknown,-1,8,1
+36,11,UTF-8,nginx,655,Unknown,Unknown,-1,8,1
+36,8,ISO-8859-1,cloudflare-nginx,-1,ru,Krasnoyarsk,2441,2,1
+36,8,ISO-8859-1,nginx,10133,US,CA,4118,0,-1
+36,8,us-ascii,Microsoft-HTTPAPI/2.0,324,Unknown,Unknown,4699,0,-1
+36,7,ISO-8859-1,nginx/1.12.0,-1,US,Kansas,6576,0,-1
+36,6,ISO-8859-1,nginx/1.12.0,1108,US,CA,3803,0,-1
+36,7,us-ascii,Microsoft-HTTPAPI/2.0,324,US,DE,4207,0,-1
+36,7,ISO-8859-1,Unknown,-1,US,CA,7185,0,-1
+36,8,ISO-8859-1,nginx,-1,CN,shandong,4795,2,-1
+36,8,UTF-8,Apache,-1,JP,Osaka,2705,2,-1
+36,7,UTF-8,nginx,-1,US,CA,6159,0,-1
+36,8,ISO-8859-1,nginx/0.7.65,-1,Unknown,Unknown,7301,0,-1
+36,8,UTF-8,mw2260.codfw.wmnet,-1,US,CA,5446,0,-1
+36,8,ISO-8859-1,Apache/2.2.32,-1,US,PA,3776,0,-1
+36,8,us-ascii,cloudflare-nginx,-1,Unknown,Unknown,3646,4,-1
+36,7,utf-8,Apache,19879,US,CA,3986,4,-1
+36,8,UTF-8,mw2239.codfw.wmnet,-1,US,CA,5446,6,-1
+36,7,us-ascii,Microsoft-HTTPAPI/2.0,324,Unknown,Unknown,5936,2,-1
+36,8,utf-8,DPS/1.1.8,-1,Unknown,Unknown,360,6,-1
+36,6,iso-8859-1,Apache/2.4.25 (Amazon) OpenSSL/1.0.1k-fips,210,Unknown,Unknown,3398,2,-1
+36,7,ISO-8859-1,cloudflare-nginx,3326,US,CA,2447,2,-1
+36,7,iso-8859-1,Apache/2.0.52 (Red Hat),293,US,TX,6514,4,-1
+36,7,iso-8859-1,Apache/2.2.22,231,Unknown,Unknown,5801,2,-1
+36,7,UTF-8,Apache,11418,US,AZ,5479,4,-1
+36,8,ISO-8859-1,Apache/2.2.25 (Unix) mod_ssl/2.2.25 OpenSSL/0.9.8e-fips-rhel5 mod_bwlimited/1.4,-1,Unknown,Unknown,3009,0,-1
+36,8,UTF-8,Apache,-1,UK,UK,7274,0,-1
+36,7,UTF-8,GSE,11692,US,CA,5812,0,-1
+37,10,UTF-8,Apache,-1,CZ,PRAHA,3804,2,1
+37,9,windows-1251,Apache/1.3.31 (Unix) PHP/4.3.9 mod_perl/1.29 rus/PL30.20,296,US,LA,4366,2,1
+37,9,ISO-8859-1,nginx,162,CN,beijingshi,2999,2,1
+37,11,ISO-8859-1,Apache,-1,Unknown,Unknown,6586,6,1
+37,10,ISO-8859-1,nginx,-1,CN,liaoningsheng,4,4,1
+37,9,iso-8859-1,Apache,188,Unknown,Unknown,-1,2,1
+37,7,utf-8,Apache/2.2.29 (Amazon),-1,CA,British Columbia,4330,0,-1
+37,7,ISO-8859-1,Apache/2.2.13 (Unix) mod_ssl/2.2.13 OpenSSL/0.9.8e-fips-rhel5 mod_auth_passthrough/2.1 mod_bwlimited/1.4 PHP/5.2.10,6062,US,California,2489,0,-1
+37,7,iso-8859-1,Apache/2.4.25 (Amazon) OpenSSL/1.0.1k-fips,219,US,Missouri,3423,0,-1
+37,9,ISO-8859-1,Apache,1002,AT,Austria,4384,0,-1
+37,10,utf-8,Apache,14109,US,California,3987,0,-1
+37,8,us-ascii,Microsoft-HTTPAPI/2.0,324,US,North Carolina,5509,0,-1
+37,9,utf-8,nginx/1.1.19,-1,US,CA,6878,0,-1
+37,8,utf-8,cloudflare-nginx,-1,US,California,5151,0,-1
+37,9,utf-8,Apache/2.2.22 (Ubuntu),8022,US,California,3653,0,-1
+37,9,utf-8,nginx,32441,[u'GB'; u'UK'],UK,5465,0,-1
+37,7,ISO-8859-1,ATS/5.3.0,7891,US,MA,5815,0,-1
+37,8,ISO-8859-1,Unknown,-1,US,CA,7185,0,-1
+37,8,UTF-8,Apache,1840,US,CA,6663,0,-1
+37,8,ISO-8859-1,Apache/2.2.3 (Red Hat),12768,Unknown,Unknown,5853,0,-1
+37,7,UTF-8,openresty,-1,US,NY,3970,2,-1
+37,9,iso-8859-1,Apache,-1,Unknown,Unknown,-1,6,-1
+37,7,utf-8,Unknown,-1,US,CA,6903,6,-1
+37,8,UTF-8,nginx,-1,US,Arizona,5845,4,-1
+37,8,ISO-8859-1,nginx,4297,US,OH,8366,6,-1
+37,9,UTF-8,nginx,-1,PH,Manila,2193,2,-1
+37,9,ISO-8859-1,Unknown,-1,US,CA,6123,2,-1
+37,8,utf-8,nginx/1.4.3,135444,US,NY,6598,2,-1
+37,9,utf-8,ATS,616,US,CA,7525,8,-1
+37,8,utf-8,Apache/2.2.29 (Unix) mod_ssl/2.2.29 OpenSSL/1.0.1e-fips mod_bwlimited/1.4 PHP/5.4.35,6944,US,Arizona,5844,0,-1
+37,8,ISO-8859-1,Unknown,1819,US,CA,5206,0,-1
+37,7,UTF-8,GSE,7783,US,CA,5812,0,-1
+38,10,iso-8859-1,Apache/2,337,CA,ON,2548,0,1
+38,11,UTF-8,nginx,661,Unknown,Unknown,-1,8,1
+38,9,ISO-8859-1,Apache/2.2.14 (FreeBSD) mod_ssl/2.2.14 OpenSSL/0.9.8y DAV/2 PHP/5.2.12 with Suhosin-Patch,2516,US,Utah,5845,6,1
+38,9,ISO-8859-1,Apache/2.2.14 (FreeBSD) mod_ssl/2.2.14 OpenSSL/0.9.8y DAV/2 PHP/5.2.12 with Suhosin-Patch,2516,US,Utah,5845,6,1
+38,10,iso-8859-1,nginx/1.8.0,215,Unknown,Unknown,3988,2,1
+38,9,ISO-8859-1,Apache/2.2.14 (Unix) mod_ssl/2.2.14 OpenSSL/0.9.8e-fips-rhel5,4397,US,MA,6150,0,-1
+38,8,ISO-8859-1,Unknown,1819,US,CA,5206,0,-1
+38,8,ISO-8859-1,Apache/1.3.39 (Unix) PHP/5.2.5 mod_auth_passthrough/1.8 mod_bwlimited/1.4 mod_log_bytes/1.2 mod_gzip/1.3.26.1a FrontPage/5.0.2.2635 DAV/1.0.3 mod_ssl/2.8.30 OpenSSL/0.9.7a,-1,Unknown,Unknown,3653,2,-1
+38,8,UTF-8,cloudflare-nginx,-1,US,New York,3403,0,-1
+38,8,utf-8,nginx,39740,[u'GB'; u'UK'],UK,5465,0,-1
+38,9,utf-8,Apache,68067,US,MO,7462,4,-1
+38,10,UTF-8,Apache,40299,UK,Unknown,7881,0,-1
+38,9,ISO-8859-1,Apache,-1,US,CA,5579,0,-1
+38,8,utf-8,Unknown,-1,US,CA,7056,0,-1
+38,9,utf-8,nginx/1.1.19,-1,US,CA,6878,0,-1
+38,8,iso-8859-1,Apache/2,345,US,CA,7433,0,-1
+38,7,us-ascii,Microsoft-HTTPAPI/2.0,324,US,NJ,8761,0,-1
+38,9,UTF-8,GSE,3916,US,CA,5812,0,-1
+38,8,ISO-8859-1,Unknown,1819,US,CA,5206,8,-1
+38,7,ISO-8859-1,Unknown,34,Unknown,Unknown,4698,0,-1
+38,8,UTF-8,Apache,-1,US,MI,1813,0,-1
+38,7,UTF-8,Apache,1172,US,NY,5641,0,-1
+38,6,us-ascii,Microsoft-HTTPAPI/2.0,324,Unknown,Unknown,4192,0,-1
+38,8,UTF-8,Server,-1,US,NJ,7300,0,-1
+38,7,UTF-8,Unknown,24087,AU,NSW,5396,4,-1
+38,9,utf-8,ATS,618,US,CA,7525,8,-1
+38,8,ISO-8859-1,Unknown,6746,Unknown,Unknown,5034,6,-1
+38,8,us-ascii,Microsoft-HTTPAPI/2.0,324,US,UT,7272,6,-1
+38,7,us-ascii,Microsoft-HTTPAPI/2.0,324,AU,NSW,2978,2,-1
+38,6,utf-8,Apache,9555,BE,Unknown,3654,4,-1
+38,6,UTF-8,SSWS,-1,US,FL,2151,8,-1
+38,8,UTF-8,Apache,1840,US,CA,6663,4,-1
+38,10,utf-8,Microsoft-IIS/8.0,4929,NO,Unknown,4717,4,-1
+38,8,utf-8,Apache/2.4.18 (Ubuntu),12400,US,FL,6515,6,-1
+38,9,UTF-8,Apache/2.4.6 (CentOS) OpenSSL/1.0.1e-fips PHP/5.4.16 mod_apreq2-20090110/2.8.0 mod_perl/2.0.10 Perl/v5.24.1,42952,US,FL,5938,6,-1
+38,7,ISO-8859-1,Apache/2.2.13 (Unix) mod_ssl/2.2.13 OpenSSL/0.9.8e-fips-rhel5 mod_auth_passthrough/2.1 mod_bwlimited/1.4 PHP/5.2.10,-1,US,California,2489,4,-1
+38,7,UTF-8,GSE,-1,US,CA,5812,8,-1
+38,9,UTF-8,Unknown,-1,Unknown,Unknown,-1,6,-1
+38,8,utf-8,cloudflare-nginx,-1,US,CA,7738,0,-1
+38,7,UTF-8,GSE,7868,US,CA,5812,6,-1
+38,9,iso-8859-1,Apache/2.2.20 (Unix),220,US,CA,4738,0,-1
+38,7,UTF-8,GSE,7797,US,CA,5812,0,-1
+38,9,us-ascii,cloudflare-nginx,-1,US,Arizona,3646,0,-1
+39,13,UTF-8,nginx,637,Unknown,Unknown,-1,0,1
+39,11,UTF-8,nginx,640,Unknown,Unknown,-1,4,1
+39,11,UTF-8,nginx,640,Unknown,Unknown,-1,6,1
+39,11,UTF-8,nginx,661,Unknown,Unknown,-1,6,1
+39,9,ISO-8859-1,Apache/2.2.14 (FreeBSD) mod_ssl/2.2.14 OpenSSL/0.9.8y DAV/2 PHP/5.2.12 with Suhosin-Patch,2516,US,Utah,5845,6,1
+39,10,iso-8859-1,nginx/1.8.0,216,Unknown,Unknown,3988,4,1
+39,8,utf-8,YouTubeFrontEnd,-1,US,CA,4351,0,-1
+39,7,UTF-8,Apache/2.2.15 (CentOS),256306,AU,New South Wales,2922,0,-1
+39,8,utf-8,YouTubeFrontEnd,-1,US,CA,4351,0,-1
+39,9,utf-8,YouTubeFrontEnd,-1,US,CA,4351,0,-1
+39,9,utf-8,YouTubeFrontEnd,-1,US,CA,4351,0,-1
+39,9,utf-8,nginx/1.11.3,-1,Unknown,Unknown,3448,0,-1
+39,9,utf-8,YouTubeFrontEnd,-1,US,CA,4351,0,-1
+39,9,utf-8,YouTubeFrontEnd,-1,US,CA,4351,0,-1
+39,8,iso-8859-1,Apache,404,US,WV,3654,0,-1
+39,9,UTF-8,nginx,-1,US,Arizona,5344,0,-1
+39,8,utf-8,nginx/1.11.2,-1,US,FL,7546,0,-1
+39,8,iso-8859-1,HTTPDaemon,-1,US,WA,7426,0,-1
+39,7,UTF-8,GSE,7472,US,CA,5812,0,-1
+39,8,UTF-8,Apache/2.4.18 (Ubuntu),3063,TR,Unknown,5845,0,-1
+39,8,utf-8,YouTubeFrontEnd,-1,US,CA,4351,0,-1
+39,6,utf-8,Unknown,-1,US,CA,6903,6,-1
+39,8,utf-8,YouTubeFrontEnd,-1,US,CA,4351,0,-1
+39,7,utf-8,Apache,12985,US,CO,3470,0,-1
+39,8,utf-8,nginx,-1,US,Oregon,5830,0,-1
+39,8,UTF-8,GSE,9352,US,CA,5812,0,-1
+39,8,utf-8,YouTubeFrontEnd,-1,US,CA,4351,0,-1
+39,7,UTF-8,Apache,-1,US,NY,4118,0,-1
+39,8,utf-8,YouTubeFrontEnd,-1,US,CA,4351,10,-1
+39,8,utf-8,YouTubeFrontEnd,-1,US,CA,4351,0,-1
+39,10,utf-8,YouTubeFrontEnd,-1,US,CA,4351,0,-1
+39,8,UTF-8,nginx,-1,FR,Unknown,7174,4,-1
+39,8,utf-8,YouTubeFrontEnd,-1,US,CA,4351,6,-1
+39,8,utf-8,YouTubeFrontEnd,-1,US,CA,4351,8,-1
+39,8,utf-8,YouTubeFrontEnd,-1,US,CA,4351,0,-1
+39,8,utf-8,YouTubeFrontEnd,-1,US,CA,4351,0,-1
+39,8,utf-8,YouTubeFrontEnd,-1,US,CA,4351,0,-1
+39,8,utf-8,YouTubeFrontEnd,-1,US,CA,4351,0,-1
+39,8,utf-8,YouTubeFrontEnd,-1,US,CA,4351,0,-1
+39,8,UTF-8,Apache,9050,Unknown,Unknown,-1,0,-1
+39,8,utf-8,YouTubeFrontEnd,-1,US,CA,4351,0,-1
+39,8,utf-8,YouTubeFrontEnd,-1,US,CA,4351,0,-1
+39,9,utf-8,ATS,620,US,CA,7525,0,-1
+39,8,utf-8,YouTubeFrontEnd,-1,US,CA,4351,0,-1
+39,9,ISO-8859-1,AmazonS3,889,Unknown,Unknown,4353,0,-1
+39,9,ISO-8859-1,nginx,1502,US,Ohio,4744,0,-1
+39,9,UTF-8,Apache,-1,Unknown,Unknown,-1,0,-1
+39,10,UTF-8,cloudflare-nginx,-1,Unknown,Unknown,-1,0,-1
+39,10,utf-8,cloudflare-nginx,-1,US,Arizona,1988,0,-1
+39,7,iso-8859-1,Apache,340,CA,ON,7281,0,-1
+39,9,utf-8,YouTubeFrontEnd,-1,US,CA,4351,0,-1
+39,9,utf-8,YouTubeFrontEnd,-1,US,CA,4351,8,-1
+39,8,ISO-8859-1,Apache,1002,AT,Austria,4384,4,-1
+39,8,utf-8,YouTubeFrontEnd,-1,US,CA,4351,6,-1
+39,7,ISO-8859-1,cloudflare-nginx,-1,Unknown,Unknown,2102,2,-1
+39,9,utf-8,YouTubeFrontEnd,-1,US,CA,4351,10,-1
+39,7,utf-8,Apache/2.2.15 (CentOS),431,KY,GRAND CAYMAN,4936,2,-1
+39,9,ISO-8859-1,nginx,1500,US,Ohio,4744,6,-1
+39,8,utf-8,YouTubeFrontEnd,-1,US,CA,4351,8,-1
+39,9,ISO-8859-1,Unknown,1819,US,CA,5206,10,-1
+39,6,ISO-8859-1,nginx/1.10.0 (Ubuntu),-1,LV,RIX,2193,8,-1
+39,8,us-ascii,Microsoft-HTTPAPI/2.0,324,TR,TR,2714,2,-1
+39,8,ISO-8859-1,nginx/1.8.1,-1,US,nj,4808,6,-1
+39,9,us-ascii,cloudflare-nginx,-1,US,Arizona,3646,4,-1
+39,8,utf-8,YouTubeFrontEnd,-1,US,CA,4351,12,-1
+39,9,utf-8,YouTubeFrontEnd,-1,US,CA,4351,10,-1
+39,10,UTF-8,Apache/2.2.22 (Debian),8507,US,Arizona,3343,4,-1
+39,9,utf-8,YouTubeFrontEnd,-1,US,CA,4351,8,-1
+39,10,utf-8,YouTubeFrontEnd,-1,US,CA,4351,8,-1
+39,9,ISO-8859-1,nginx/1.11.10,121211,US,GA,8547,2,-1
+39,8,utf-8,YouTubeFrontEnd,-1,US,CA,4351,8,-1
+39,9,utf-8,YouTubeFrontEnd,-1,US,CA,4351,0,-1
+39,8,utf-8,YouTubeFrontEnd,-1,US,CA,4351,0,-1
+39,8,utf-8,YouTubeFrontEnd,-1,US,CA,4351,0,-1
+39,8,ISO-8859-1,Squeegit/1.2.5 (3_sir),-1,US,MA,8097,0,-1
+39,8,utf-8,YouTubeFrontEnd,-1,US,CA,4351,0,-1
+39,8,utf-8,YouTubeFrontEnd,-1,US,CA,4351,12,-1
+39,8,utf-8,YouTubeFrontEnd,-1,US,CA,4351,0,-1
+39,9,UTF-8,Apache,58,PA,Panama,0,0,-1
+39,8,UTF-8,Apache/2,1007,PA,Panama,2820,0,-1
+39,7,UTF-8,Virtuoso/07.20.3217 (Linux) i686-generic-linux-glibc212-64  VDB,-1,DE,Unknown,3652,0,-1
+39,8,utf-8,YouTubeFrontEnd,-1,US,CA,4351,0,-1
+39,8,utf-8,YouTubeFrontEnd,-1,Unknown,Unknown,-1,0,-1
+39,9,ISO-8859-1,nginx/1.12.0,-1,CA,SK,4017,0,-1
+39,8,utf-8,YouTubeFrontEnd,-1,US,CA,4351,0,-1
+39,8,utf-8,YouTubeFrontEnd,-1,US,CA,4351,0,-1
+40,13,UTF-8,nginx,637,Unknown,Unknown,-1,4,1
+40,13,UTF-8,nginx,640,Unknown,Unknown,-1,6,1
+40,13,UTF-8,nginx,643,Unknown,Unknown,-1,4,1
+40,11,UTF-8,nginx,667,Unknown,Unknown,-1,8,1
+40,11,UTF-8,nginx,667,Unknown,Unknown,-1,6,1
+40,10,utf-8,Apache,3016,Unknown,Unknown,-1,6,1
+40,9,ISO-8859-1,Apache/2.2.14 (FreeBSD) mod_ssl/2.2.14 OpenSSL/0.9.8y DAV/2 PHP/5.2.12 with Suhosin-Patch,2516,US,Utah,5845,6,1
+40,9,UTF-8,Apache-Coyote/1.1,-1,US,ca,6255,0,-1
+40,9,UTF-8,mw2239.codfw.wmnet,-1,US,CA,5446,0,-1
+40,7,UTF-8,GSE,7283,US,CA,5812,0,-1
+40,10,utf-8,Yippee-Ki-Yay,12513,US,Arizona,4170,0,-1
+40,7,UTF-8,Apache,13183,US,CA,5829,0,-1
+40,7,UTF-8,GSE,6222,US,CA,5812,0,-1
+40,9,UTF-8,Apache,7942,US,CA,4019,4,-1
+40,7,utf-8,Unknown,-1,CA,ON,5027,0,-1
+40,9,utf-8,cloudflare-nginx,-1,US,CO,7303,0,-1
+40,8,iso-8859-1,cloudflare-nginx,-1,ES,Alicante,3945,0,-1
+40,9,ISO-8859-1,Apache,-1,AU,Queensland,4018,0,-1
+40,12,UTF-8,Apache,3013,US,CA,5524,0,-1
+40,11,utf-8,nginx,-1,US,NY,8016,0,-1
+40,10,UTF-8,mw2165.codfw.wmnet,4692,US,CA,5446,0,-1
+40,7,UTF-8,GSE,9433,US,CA,5812,0,-1
+40,9,UTF-8,mw2192.codfw.wmnet,-1,US,CA,5446,0,-1
+40,9,us-ascii,Microsoft-HTTPAPI/2.0,324,US,New Jersey,4866,0,-1
+40,8,UTF-8,Apache/2.2.23 (Amazon),11590,US,New York,2126,6,-1
+40,9,iso-8859-1,Apache,230,US,California,8036,0,-1
+40,6,utf-8,Unknown,-1,Unknown,Unknown,6903,0,-1
+40,7,ISO-8859-1,LiteSpeed,618,AU,Vic,3530,2,-1
+40,8,ISO-8859-1,Unknown,-1,US,ME,2893,2,-1
+40,9,utf-8,nginx/1.11.3,-1,Unknown,Unknown,3448,4,-1
+40,9,utf-8,ATS,622,US,CA,7525,6,-1
+40,9,ISO-8859-1,Apache/2.2.32,-1,US,MO,3562,2,-1
+40,6,us-ascii,Microsoft-HTTPAPI/2.0,324,US,PA,4192,2,-1
+40,7,utf-8,Unknown,-1,CA,ON,5027,8,-1
+40,6,ISO-8859-1,nginx/1.12.0,1108,Unknown,Unknown,2190,4,-1
+40,9,utf-8,nginx/1.4.6 (Ubuntu),-1,US,CA,4018,4,-1
+40,9,UTF-8,Microsoft-IIS/7.5,63279,US,OH,5972,4,-1
+40,8,ISO-8859-1,Apache,15240,Unknown,Unknown,4629,4,-1
+40,9,utf-8,Apache,65993,US,MO,7462,4,-1
+40,7,ISO-8859-1,Unknown,1819,US,CA,5206,8,-1
+40,8,ISO-8859-1,nginx,-1,US,WA,7529,4,-1
+40,8,UTF-8,nginx,15363,US,NY,7569,4,-1
+40,6,iso-8859-1,Unknown,411,US,TX,6546,6,-1
+40,7,UTF-8,GSE,38119,US,CA,5812,6,-1
+40,9,ISO-8859-1,cloudflare-nginx,-1,US,NJ,2920,0,-1
+40,9,utf-8,nginx + Phusion Passenger,-1,US,FL,5815,0,-1
+40,7,UTF-8,GSE,6498,US,CA,5812,0,-1
+40,9,utf-8,ATS,622,US,CA,7525,0,-1
+41,13,UTF-8,nginx,643,Unknown,Unknown,-1,4,1
+41,11,UTF-8,nginx,670,Unknown,Unknown,-1,6,1
+41,10,ISO-8859-1,Apache/2.2.14 (FreeBSD) mod_ssl/2.2.14 OpenSSL/0.9.8y DAV/2 PHP/5.2.12 with Suhosin-Patch,2516,US,Utah,5845,6,1
+41,11,UTF-8,Proxy Pandeiro UOL,27103,BR,Unknown,-1,4,1
+41,10,iso-8859-1,nginx/1.8.0,218,Unknown,Unknown,3988,4,1
+41,6,iso-8859-1,nginx,318,Unknown,Unknown,53,6,-1
+41,8,utf-8,nginx,-1,US,Oregon,5830,0,-1
+41,8,utf-8,Apache,65473,US,MO,7462,0,-1
+41,9,UTF-8,nginx/1.12.0,-1,US,Pennsylvania,3289,0,-1
+41,8,us-ascii,Microsoft-HTTPAPI/2.0,324,GB,worcs,3646,0,-1
+41,10,utf-8,nginx/1.8.1,-1,US,NY,8024,0,-1
+41,9,UTF-8,mw2231.codfw.wmnet,-1,US,CA,5446,0,-1
+41,9,UTF-8,mw2165.codfw.wmnet,-1,US,CA,5446,0,-1
+41,9,ISO-8859-1,Apache,-1,US,Maine,7433,0,-1
+41,9,UTF-8,Apache,7065,US,Arizona,4749,0,-1
+41,7,ISO-8859-1,openresty/1.11.2.2,10588,US,FL,4349,2,-1
+41,8,UTF-8,Apache,-1,PA,PANAMA,2913,4,-1
+41,9,UTF-8,mw2109.codfw.wmnet,-1,US,CA,5446,8,-1
+41,7,iso-8859-1,Apache,281,US,PA,1046,4,-1
+41,8,us-ascii,Microsoft-IIS/7.5,324,US,Kansas,5767,4,-1
+41,8,UTF-8,Apache,-1,JP,Unknown,356,6,-1
+41,8,UTF-8,Apache,-1,US,VA,2526,4,-1
+41,10,iso-8859-1,Apache,13,US,Arizona,60,0,-1
+41,8,UTF-8,Server,-1,US,WA,7426,4,-1
+41,8,ISO-8859-1,nginx/0.8.54,-1,Unknown,Unknown,422,0,-1
+41,10,utf-8,nginx/1.8.1,-1,US,NY,8024,6,-1
+41,9,ISO-8859-1,Apache,-1,AU,Queensland,4018,8,-1
+41,10,UTF-8,Apache-Coyote/1.1,9817,GB,London,6719,0,-1
+41,9,ISO-8859-1,Apache,-1,AU,Queensland,4018,0,-1
+41,9,ISO-8859-1,nginx,-1,FR,Unknown,4017,0,-1
+42,13,UTF-8,nginx,646,Unknown,Unknown,-1,4,1
+42,11,UTF-8,nginx,673,Unknown,Unknown,-1,6,1
+42,11,UTF-8,nginx,673,Unknown,Unknown,-1,6,1
+42,10,utf-8,nginx/1.10.1,-1,Unknown,Unknown,-1,2,1
+42,10,ISO-8859-1,Apache/2.2.14 (FreeBSD) mod_ssl/2.2.14 OpenSSL/0.9.8y DAV/2 PHP/5.2.12 with Suhosin-Patch,2516,US,Utah,5845,6,1
+42,10,ISO-8859-1,Apache/2.2.14 (FreeBSD) mod_ssl/2.2.14 OpenSSL/0.9.8y DAV/2 PHP/5.2.12 with Suhosin-Patch,2516,US,Utah,5845,6,1
+42,10,ISO-8859-1,Apache/2.2.14 (FreeBSD) mod_ssl/2.2.14 OpenSSL/0.9.8y DAV/2 PHP/5.2.12 with Suhosin-Patch,2516,US,Utah,5845,6,1
+42,10,ISO-8859-1,Apache/2.2.14 (FreeBSD) mod_ssl/2.2.14 OpenSSL/0.9.8y DAV/2 PHP/5.2.12 with Suhosin-Patch,2516,US,Utah,5845,6,1
+42,8,ISO-8859-1,Apache,895,US,Arizona,60,4,1
+42,7,utf-8,Apache/2.4.6,-1,US,FL,4679,6,-1
+42,8,utf-8,Apache/2.4.25,-1,IN,Karnataka,2996,0,-1
+42,7,utf-8,nginx/1.10.1,-1,CA,BC,5435,0,-1
+42,10,UTF-8,nginx,-1,US,Arizona,3060,0,-1
+42,8,UTF-8,Apache,7289,CA,ON,5960,0,-1
+42,8,UTF-8,Apache/2.4.25,4974,CA,Quebec,2556,0,-1
+42,10,utf-8,cloudflare-nginx,-1,US,Arizona,1988,0,-1
+42,9,UTF-8,mw2225.codfw.wmnet,4691,US,CA,5446,0,-1
+42,8,utf-8,nginx/1.1.19,-1,US,CA,6878,0,-1
+42,11,UTF-8,nginx,-1,US,Arizona,3617,0,-1
+42,10,ISO-8859-1,Unknown,1819,US,CA,5206,0,-1
+42,9,ISO-8859-1,nginx,1505,US,Ohio,4744,0,-1
+42,9,UTF-8,Apache,7509,Unknown,Unknown,5115,6,-1
+42,9,ISO-8859-1,Apache-Coyote/1.1,5127,US,CA,7846,0,-1
+42,7,ISO-8859-1,Apache,-1,US,Indiana,4010,0,-1
+42,9,UTF-8,nginx,-1,Unknown,Unknown,7574,0,-1
+42,8,UTF-8,nginx,-1,AU,NEW SOUTH WALES,556,0,-1
+42,9,us-ascii,Unknown,324,Unknown,Unknown,5012,0,-1
+42,8,UTF-8,Apache,-1,UK,UK,7274,4,-1
+42,8,UTF-8,Apache/2.2.15 (CentOS),2766,Unknown,Unknown,2807,8,-1
+42,8,utf-8,Unknown,-1,US,CA,6903,4,-1
+42,9,ISO-8859-1,Apache,-1,AU,Queensland,4018,2,-1
+42,7,utf-8,openresty/1.11.2.1,-1,US,IL,3748,4,-1
+42,9,UTF-8,Apache/2.2.22 (Debian),10561,JP,6110021,15,4,-1
+42,9,UTF-8,Apache/2.2.22 (Debian),8769,SC,Not Applicable,542,2,-1
+42,7,UTF-8,GSE,12608,US,CA,5812,6,-1
+42,9,us-ascii,Microsoft-HTTPAPI/2.0,324,US,CA,6720,4,-1
+42,8,UTF-8,Apache/2.2.15 (CentOS),94,AU,NSW,4338,2,-1
+42,8,ISO-8859-1,nginx/1.8.1,-1,US,nj,4808,0,-1
+42,8,us-ascii,Microsoft-HTTPAPI/2.0,324,US,California,361,0,-1
+42,8,utf-8,Unknown,-1,US,CA,6903,4,-1
+42,9,ISO-8859-1,Apache,-1,AU,Queensland,4018,0,-1
+42,7,ISO-8859-1,Apache,497,US,PA,2193,0,-1
+42,7,utf-8,Apache/2.4.6,-1,US,FL,4679,0,-1
+43,13,UTF-8,nginx,646,Unknown,Unknown,-1,4,1
+43,11,UTF-8,nginx,673,Unknown,Unknown,-1,6,1
+43,10,ISO-8859-1,Apache/2.2.14 (FreeBSD) mod_ssl/2.2.14 OpenSSL/0.9.8y DAV/2 PHP/5.2.12 with Suhosin-Patch,2516,US,Utah,5845,6,1
+43,11,iso-8859-1,Apache/1.3.27 (Unix) PHP/4.4.1,-1,Unknown,Unknown,5758,2,1
+43,10,ISO-8859-1,DOSarrest,-1,us,Washington,4942,2,1
+43,10,UTF-8,Apache,7550,US,CA,4384,2,1
+43,10,UTF-8,nginx/1.12.0,-1,Unknown,Unknown,-1,0,1
+43,8,us-ascii,Microsoft-HTTPAPI/2.0,324,US,WA,5407,0,-1
+43,9,utf-8,nginx + Phusion Passenger,-1,US,FL,5815,0,-1
+43,9,ISO-8859-1,Apache,-1,AU,Queensland,4018,0,-1
+43,9,ISO-8859-1,nginx,-1,US,WA,5346,0,-1
+43,8,iso-8859-1,Apache,236,US,ca,4732,2,-1
+43,8,ISO-8859-1,Apache/2.4.12 (Unix) OpenSSL/1.0.1e-fips mod_bwlimited/1.4,-1,US,GA,6879,0,-1
+43,9,ISO-8859-1,Unknown,-1,US,CA,7185,0,-1
+43,8,utf-8,nginx,-1,GB,Peterborough,6692,6,-1
+43,7,UTF-8,Apache,-1,US,CA,5728,0,-1
+43,9,UTF-8,mw2236.codfw.wmnet,-1,US,CA,5446,0,-1
+43,7,us-ascii,Microsoft-HTTPAPI/2.0,324,Unknown,Unknown,5114,4,-1
+43,8,utf-8,nginx/1.1.19,13089,Unknown,Unknown,6878,0,-1
+43,9,utf-8,Apache/2.2.15 (CentOS),19724,US,Arizona,7673,0,-1
+43,9,UTF-8,mw2101.codfw.wmnet,-1,US,CA,5446,0,-1
+43,9,UTF-8,Apache,-1,UK,UK,7274,4,-1
+43,9,utf-8,Varnish,389,US,CA,5005,4,-1
+43,8,UTF-8,Apache,-1,US,Arizona,3654,2,-1
+43,9,ISO-8859-1,Unknown,6744,Unknown,Unknown,5034,6,-1
+43,12,ISO-8859,Apache,5653,Unknown,Unknown,5537,4,-1
+43,8,us-ascii,Microsoft-IIS/7.5,324,Unknown,Unknown,4648,6,-1
+43,9,ISO-8859-1,cloudflare-nginx,-1,CA,Quebec,5174,2,-1
+43,10,utf-8,nginx,-1,US,NY,8016,4,-1
+43,7,us-ascii,Microsoft-HTTPAPI/2.0,324,US,PA,4192,6,-1
+43,7,ISO-8859-1,Apache,497,GB,Unknown,3637,6,-1
+43,7,UTF-8,GSE,20592,US,CA,5812,4,-1
+43,10,UTF-8,Resin/3.1.8,-1,US,FL,6531,0,-1
+43,9,UTF-8,mw2164.codfw.wmnet,-1,US,CA,5446,0,-1
+43,10,utf-8,Microsoft-IIS/8.5,4816,US,CO,367,0,-1
+44,10,ISO-8859-1,Apache/2.2.14 (FreeBSD) mod_ssl/2.2.14 OpenSSL/0.9.8y DAV/2 PHP/5.2.12 with Suhosin-Patch,2516,US,Utah,5845,6,1
+44,10,utf-8,nginx/1.6.2,8219,US,CO,4428,0,-1
+44,8,ISO-8859-1,nginx,-1,US,WA,7529,0,-1
+44,11,iso-8859-1,Apache,334,Unknown,Unknown,-1,0,-1
+44,9,utf-8,ATS,634,US,CA,7525,0,-1
+44,9,UTF-8,mw2242.codfw.wmnet,-1,US,CA,5446,0,-1
+44,9,UTF-8,nginx,-1,US,NY,7506,0,-1
+44,7,us-ascii,Microsoft-HTTPAPI/2.0,324,US,PA,4192,0,-1
+44,8,ISO-8859-1,nginx,-1,US,WA,7529,4,-1
+44,10,UTF-8,Apache/2.4.6 (CentOS) OpenSSL/1.0.1e-fips PHP/5.5.38,-1,AU,Unknown,2420,0,-1
+44,9,ISO-8859-1,nginx,1511,US,Ohio,4744,0,-1
+44,11,ISO-8859-1,Unknown,1819,US,CA,5206,0,-1
+44,10,utf-8,Apache,45958,CA,ON,4701,0,-1
+44,9,UTF-8,mw2175.codfw.wmnet,-1,US,CA,5446,0,-1
+44,7,UTF-8,Apache,-1,US,Arizona,2990,0,-1
+44,8,ISO-8859-1,Microsoft-IIS/7.5,11,US,WA,5829,2,-1
+44,9,us-ascii,Microsoft-HTTPAPI/2.0,324,US,UT,5610,6,-1
+44,9,UTF-8,mw2107.codfw.wmnet,-1,US,CA,5446,8,-1
+44,9,UTF-8,mw2190.codfw.wmnet,-1,US,CA,5446,8,-1
+44,9,utf-8,Apache,44446,CA,ON,4701,2,-1
+44,9,iso-8859-1,Apache,338,Unknown,Unknown,-1,2,-1
+44,8,iso-8859-1,Apache/2,345,US,FL,5998,2,-1
+44,9,ISO-8859-1,Unknown,674,US,California,5034,6,-1
+44,9,utf-8,nginx + Phusion Passenger,-1,US,FL,5815,4,-1
+44,8,UTF-8,Apache/2.4.6 (CentOS),25825,US,CA,6889,8,-1
+44,8,UTF-8,Server,-1,US,WA,7426,4,-1
+44,9,ISO-8859-1,nginx/1.13.0,-1,FR,Unknown,3515,2,-1
+44,9,ISO-8859-1,nginx,1501,US,Ohio,4744,8,-1
+44,8,utf-8,nginx,10198,US,New York,2410,6,-1
+44,10,ISO-8859-1,Apache/2.4.25,360,US,CO,7214,4,-1
+44,9,iso-8859-1,barista/5.1.3,16525,US,CA,6935,4,-1
+44,8,UTF-8,Server,-1,US,WA,7426,4,-1
+44,9,ISO-8859-1,Unknown,6746,US,California,5034,4,-1
+44,9,UTF-8,mw2103.codfw.wmnet,-1,US,CA,5446,0,-1
+44,8,us-ascii,Microsoft-HTTPAPI/2.0,324,CA,ON,5784,0,-1
+44,8,us-ascii,Microsoft-IIS/7.5,324,US,California,4648,0,-1
+45,10,ISO-8859-1,Apache,-1,Unknown,Unknown,-1,2,1
+45,8,iso-8859-1,nginx,326,Unknown,Unknown,3280,4,-1
+45,9,UTF-8,nginx/1.11.2,10273,US,MI,5419,0,-1
+45,9,ISO-8859-1,Unknown,6748,Unknown,Unknown,5034,0,-1
+45,9,ISO-8859-1,Squeegit/1.2.5 (3_sir),-1,US,MA,8097,0,-1
+45,8,ISO-8859-1,Microsoft-IIS/8.5,1245,US,FL,4998,0,-1
+45,10,ISO-8859-1,Apache,6264,Unknown,Unknown,5841,0,-1
+45,10,ISO-8859-1,Microsoft-IIS/7.5,1245,US,CT,6610,0,-1
+45,9,ISO-8859-1,cloudflare-nginx,-1,US,Arizona,2504,0,-1
+45,7,iso-8859-1,Apache/2.4.25 (Debian),185,US,MA,3268,0,-1
+45,7,UTF-8,Apache,4764,US,Arizona,2105,0,-1
+45,8,us-ascii,Microsoft-HTTPAPI/2.0,324,Unknown,Unknown,5857,0,-1
+45,8,utf-8,AmazonS3,365,US,Arizona,5035,0,-1
+45,11,UTF-8,mw2192.codfw.wmnet,-1,US,CA,5446,0,-1
+45,11,UTF-8,Apache,3042,US,CA,5524,4,-1
+45,8,utf-8,ECD (fll/0790),41547,US,NY,4380,0,-1
+45,11,UTF-8,Pagely Gateway/1.5.1,-1,US,Minnesota,5206,0,-1
+45,9,utf-8,nginx/1.10.3,39,NL,NOT APPLICABLE,5108,2,-1
+45,9,utf-8,Apache,44447,CA,ON,4701,2,-1
+45,9,UTF-8,mw2101.codfw.wmnet,-1,US,CA,5446,8,-1
+45,8,iso-8859-1,Apache/2.4.25 (Amazon) OpenSSL/1.0.1k-fips,226,US,Missouri,3469,2,-1
+45,10,iso-8859-1,Apache/2.4.25 (FreeBSD) OpenSSL/1.0.1s-freebsd PHP/5.6.30,217,Unknown,Unknown,-1,2,-1
+45,10,ISO-8859-1,Unknown,12368,US,CA,6935,4,-1
+45,9,UTF-8,mw2097.codfw.wmnet,-1,US,CA,5446,14,-1
+45,9,UTF-8,mw2239.codfw.wmnet,4695,US,CA,5446,6,-1
+45,10,utf-8,ATS,636,US,CA,7525,8,-1
+45,8,iso-8859-1,Apache,191,AU,VIC,2958,0,-1
+45,9,UTF-8,Apache,23771,US,MA,8008,4,-1
+45,10,utf-8,Unknown,14947,US,NY,6798,4,-1
+45,9,ISO-8859-1,Apache,-1,AU,Queensland,4018,6,-1
+45,9,us-ascii,Microsoft-HTTPAPI/2.0,324,US,UT,5610,8,-1
+45,10,UTF-8,mw2233.codfw.wmnet,-1,US,CA,5446,8,-1
+45,8,ISO-8859-1,Apache,-1,US,Washington,6199,8,-1
+45,9,iso-8859-1,nginx,-1,US,WA,6790,4,-1
+45,9,windows-1252,fbs,-1,US,WA,3861,4,-1
+45,7,UTF-8,nginx/1.12.0,9194,US,NY,2526,4,-1
+45,10,UTF-8,ATS,6560,CA,ON,5805,0,-1
+45,10,ISO-8859-1,cloudflare-nginx,-1,NL,Noord-Holland,6576,0,-1
+45,9,ISO-8859-1,Unknown,6746,US,California,5034,0,-1
+45,9,UTF-8,mw2175.codfw.wmnet,-1,US,CA,5446,0,-1
+45,8,UTF-8,Unknown,-1,Unknown,Unknown,5947,0,-1
+46,11,UTF-8,nginx,649,Unknown,Unknown,-1,4,1
+46,12,ISO-8859-1,nginx/1.12.0,221,US,CALIFORNIA,4018,2,1
+46,9,ISO-8859-1,Unknown,-1,US,CA,7185,12,-1
+46,11,UTF-8,mw2199.codfw.wmnet,-1,US,CA,5446,0,-1
+46,9,iso-8859-1,Apache/2.4.25 (Amazon) OpenSSL/1.0.1k-fips,231,Unknown,Unknown,2039,0,-1
+46,9,UTF-8,nginx/1.4.6 (Ubuntu),-1,Unknown,Unknown,-1,0,-1
+46,9,ISO-8859-1,Microsoft-IIS/7.5,11,US,WA,5829,0,-1
+46,11,UTF-8,mw2255.codfw.wmnet,4698,US,CA,5446,8,-1
+46,9,ISO-8859-1,Apache,2393,US,NY,8312,6,-1
+46,10,UTF-8,Pagely Gateway/1.5.1,-1,US,Minnesota,5206,0,-1
+46,8,iso-8859-1,Unknown,21,US,VA,7246,0,-1
+46,9,ISO-8859-1,nginx,-1,US,Arizona,2462,0,-1
+46,9,utf-8,nginx,-1,US,NY,8016,0,-1
+46,8,UTF-8,Apache/2.4.7 (Ubuntu),22479,US,WA,3620,0,-1
+46,10,iso-8859-1,Apache,344,JP,Osaka,44,0,-1
+46,10,UTF-8,Apache/2.4,-1,US,Maryland,4384,0,-1
+46,11,UTF-8,Unknown,-1,US,PA,5110,0,-1
+46,9,UTF-8,mw2228.codfw.wmnet,-1,US,CA,5446,0,-1
+46,9,UTF-8,ATS,17810,US,CA,3813,8,-1
+46,8,UTF-8,Apache,193,US,PA,0,4,-1
+46,11,utf-8,ATS,630,US,CA,7525,10,-1
+46,10,utf-8,nginx/1.10.1 + Phusion Passenger 5.0.30,-1,US,Nevada,3724,4,-1
+46,9,utf-8,Unknown,7758,US,NY,7666,4,-1
+46,8,ISO-8859-1,nginx,2886,Unknown,Unknown,6350,4,-1
+46,10,ISO-8859-1,nginx,1510,US,Ohio,4744,4,-1
+46,8,UTF-8,nginx,-1,US,CA,3758,4,-1
+46,12,ISO-8859-1,Unknown,1819,US,CA,5206,10,-1
+46,10,utf-8,openresty,-1,US,California,4818,6,-1
+46,11,ISO-8859-1,nginx,1511,US,Ohio,4744,6,-1
+46,10,utf-8,Apache,66804,US,MO,7462,4,-1
+46,10,ISO-8859-1,nginx,1519,US,Ohio,4744,4,-1
+46,12,iso-8859-1,Apache,235,Unknown,Unknown,-1,4,-1
+46,10,ISO-8859-1,nginx,166,Unknown,Unknown,6225,4,-1
+46,8,UTF-8,cloudflare-nginx,-1,PH,Unknown,5719,4,-1
+46,10,ISO-8859-1,Microsoft-IIS/8.5,8745,Unknown,Unknown,-1,2,-1
+46,10,UTF-8,Apache,-1,Unknown,Unknown,-1,2,-1
+46,8,us-ascii,cloudflare-nginx,-1,US,Arizona,5786,4,-1
+46,8,iso-8859-1,Apache/2.2.31 (Unix) mod_ssl/2.2.31 OpenSSL/1.0.1e-fips mod_bwlimited/1.4 mod_fcgid/2.3.9,333,US,MI,4786,4,-1
+46,7,UTF-8,GSE,6984,US,CA,5812,10,-1
+46,9,UTF-8,Apache/2.2.15 (CentOS),10303,AU,New South Wales,2922,2,-1
+46,10,UTF-8,mw2165.codfw.wmnet,-1,US,CA,5446,6,-1
+46,10,UTF-8,nginx,-1,PA,PANAMA,2959,0,-1
+46,9,ISO-8859-1,Unknown,784,US,California,5034,0,-1
+46,6,ISO-8859-1,Unknown,-1,US,CA,7185,0,-1
+47,11,ISO-8859-1,Apache/2.2.31 (CentOS),-1,PA,PANAMA,4370,8,1
+47,9,ISO-8859-1,cloudflare-nginx,-1,US,Texas,4399,0,-1
+47,9,UTF-8,nginx,-1,PA,PANAMA,2959,0,-1
+47,9,ISO-8859-1,Unknown,-1,CA,ON,6196,0,-1
+47,8,utf-8,nginx/1.13.0,7790,US,Washington,6682,0,-1
+47,9,us-ascii,Microsoft-HTTPAPI/2.0,324,US,UT,5610,0,-1
+47,8,ISO-8859-1,Apache,7362,PA,PANAMA,4083,0,-1
+47,9,UTF-8,Server,-1,US,WA,3256,0,-1
+47,10,us-ascii,Microsoft-HTTPAPI/2.0,324,US,Nebraska,3654,0,-1
+47,11,UTF-8,cloudflare-nginx,-1,US,AL,2143,0,-1
+47,10,iso-8859-1,Apache/2.0.52 (Red Hat),423,Unknown,Unknown,-1,0,-1
+47,9,ISO-8859-1,Unknown,6748,US,California,5034,0,-1
+47,10,UTF-8,Unknown,-1,US,WA,5464,8,-1
+47,10,UTF-8,cloudflare-nginx,-1,Unknown,Unknown,2528,4,-1
+47,9,UTF-8,Apache,17647,Unknown,Unknown,5903,0,-1
+47,9,UTF-8,nginx,-1,PH,ILOCOS NORTE R3,3118,0,-1
+47,9,ISO-8859-1,LiteSpeed,1148,US,GA,5099,0,-1
+47,9,utf-8,gunicorn/19.7.1,-1,US,California,7426,0,-1
+47,12,UTF-8,mw2228.codfw.wmnet,-1,US,CA,5446,4,-1
+47,10,UTF-8,Apache/2.4.6 (CentOS) OpenSSL/1.0.1e-fips PHP/5.5.38,-1,AU,Unknown,2420,0,-1
+47,9,UTF-8,Server,-1,US,NV,7120,0,-1
+47,11,UTF-8,nginx,-1,PA,PANAMA,2959,8,-1
+47,10,UTF-8,Apache/2.4.6 (CentOS) OpenSSL/1.0.1e-fips PHP/5.5.38,-1,AU,Unknown,2420,6,-1
+47,10,UTF-8,nginx,-1,Unknown,Unknown,5094,8,-1
+47,11,utf-8,Apache/2.2.15 (Red Hat),-1,Unknown,Unknown,-1,6,-1
+47,9,UTF-8,Apache/2.4,-1,US,Pennsylvania,6908,4,-1
+47,8,iso-8859-1,Apache/2.2.31 (Unix) mod_ssl/2.2.31 OpenSSL/0.9.8e-fips-rhel5 mod_bwlimited/1.4,479,CA,ON,5113,4,-1
+47,11,UTF-8,Apache/2.4.6 (CentOS) OpenSSL/1.0.1e-fips PHP/5.4.16,10804,Unknown,Unknown,3909,2,-1
+47,9,utf-8,ATS,-1,US,CA,3813,8,-1
+47,9,UTF-8,Apache,14889,Unknown,Unknown,6369,4,-1
+47,10,UTF-8,Apache-Coyote/1.1,9527,GB,London,6719,6,-1
+47,11,UTF-8,mw2241.codfw.wmnet,-1,US,CA,5446,6,-1
+47,8,ISO-8859-1,Unknown,-1,US,CA,7185,10,-1
+47,10,ISO-8859-1,Apache,-1,AU,Queensland,4018,2,-1
+47,8,iso-8859-1,Apache/1.3.33 (Unix) mod_ssl/2.8.24 OpenSSL/0.9.7e-p1 PHP/4.4.8,-1,US,NY,6209,2,-1
+47,8,UTF-8,nginx,-1,CA,MB,6201,2,-1
+47,9,ISO-8859-1,Unknown,6748,US,California,5034,6,-1
+47,9,utf-8,Apache,44446,CA,ON,4701,0,-1
+47,9,ISO-8859-1,Unknown,675,US,California,5034,0,-1
+47,9,ISO-8859-1,nginx/1.11.3,193,US,CA,2662,0,-1
+47,11,ISO-8859-1,Unknown,1819,US,CA,5206,0,-1
+48,10,ISO-8859-1,lighttpd,345,FR,Unknown,7612,2,1
+48,11,UTF-8,nginx,640,Unknown,Unknown,-1,8,1
+48,10,ISO-8859-1,Apache/2.2.14 (FreeBSD) mod_ssl/2.2.14 OpenSSL/0.9.8y DAV/2 PHP/5.2.12 with Suhosin-Patch,2516,US,Utah,5845,6,1
+48,11,ISO-8859-1,Apache/2.2.14 (FreeBSD) mod_ssl/2.2.14 OpenSSL/0.9.8y DAV/2 PHP/5.2.12 with Suhosin-Patch,2516,US,Utah,5845,6,1
+48,14,UTF-8,Apache,-1,CZ,PRAHA,3804,2,1
+48,9,us-ascii,Microsoft-HTTPAPI/2.0,324,US,Arizona,4005,0,-1
+48,10,utf-8,Apache,67135,US,MO,7462,0,-1
+48,11,UTF-8,nginx,-1,Unknown,Unknown,-1,0,-1
+48,9,ISO-8859-1,cloudflare-nginx,-1,US,Texas,4399,0,-1
+48,11,UTF-8,mw2230.codfw.wmnet,4699,US,CA,5446,0,-1
+48,11,ISO-8859-1,Apache,-1,AU,Queensland,4018,0,-1
+48,8,us-ascii,Microsoft-HTTPAPI/2.0,324,US,CO,6570,0,-1
+48,9,UTF-8,Apache/2.4.6 (CentOS) OpenSSL/1.0.1e-fips,16333,US,GA,4368,0,-1
+48,9,ISO-8859-1,Unknown,1819,US,CA,5206,8,-1
+48,10,UTF-8,Apache/2.4.6 (CentOS) OpenSSL/1.0.1e-fips PHP/5.5.38,-1,AU,Unknown,2420,0,-1
+48,11,iso-8859-1,Apache,288,Unknown,Unknown,5906,0,-1
+48,8,us-ascii,Microsoft-HTTPAPI/2.0,324,US,Florida,4010,0,-1
+48,8,ISO-8859-1,AkamaiGHost,299,US,CA,5083,0,-1
+48,9,ISO-8859-1,Apache/2.4.7 (Ubuntu),13913,CZ,Unknown,4229,6,-1
+48,9,us-ascii,Microsoft-HTTPAPI/2.0,324,KR,Unknown,5805,0,-1
+48,9,UTF-8,mw2240.codfw.wmnet,-1,US,CA,5446,0,-1
+48,9,UTF-8,Microsoft-IIS/7.5,39,US,Colorado,4057,4,-1
+48,9,iso-8859-1,Apache,333,US,Arizona,5115,0,-1
+48,11,utf-8,nginx/1.8.1,-1,US,NY,8024,0,-1
+48,11,ISO-8859-1,Unknown,1819,US,CA,5206,8,-1
+48,9,ISO-8859-1,Unknown,6748,Unknown,Unknown,5034,6,-1
+48,7,UTF-8,GSE,38123,US,CA,5812,8,-1
+48,8,us-ascii,cloudflare-nginx,-1,US,Arizona,5786,4,-1
+48,11,UTF-8,Apache/2.2.31 (Amazon),1371,Unknown,Unknown,4750,8,-1
+48,10,UTF-8,Apache,58,US,CO,731,4,-1
+48,9,utf-8,Apache,46579,CA,ON,4701,4,-1
+48,10,utf-8,nginx/1.10.2,-1,HK,Central,334,0,-1
+48,8,us-ascii,Microsoft-HTTPAPI/2.0,324,IN,Maharashtra,6399,0,-1
+48,11,ISO-8859-1,cloudflare-nginx,-1,US,MA,6618,0,-1
+49,12,ISO-8859-1,PWS/8.2.0.7,528,KR,Unknown,4639,6,1
+49,12,ISO-8859-1,nginx/1.2.1,2211,UA,widestep@mail.ru,4318,4,1
+49,13,utf-8,nxfps,-1,KR,Unknown,4757,4,1
+49,12,UTF-8,nginx/1.12.0,4877,US,VERMONT,2922,2,1
+49,13,UTF-8,Apache,-1,CZ,PRAHA,3804,2,1
+49,7,us-ascii,cloudflare-nginx,-1,US,Arizona,3646,0,-1
+49,9,ISO-8859-1,Apache,959,US,New York,5844,0,-1
+49,9,us-ascii,Microsoft-HTTPAPI/2.0,324,US,MI,7370,0,-1
+49,10,UTF-8,Apache,19361,CH,ZH,6873,0,-1
+49,11,ISO-8859-1,Unknown,1819,US,CA,5206,0,-1
+49,9,iso-8859-1,Apache/2.2.29 (Unix) mod_ssl/2.2.29 OpenSSL/1.0.1e-fips mod_bwlimited/1.4,475,Unknown,Unknown,1698,2,-1
+49,9,ISO-8859-1,Unknown,783,US,California,5034,0,-1
+49,10,ISO-8859-1,LiteSpeed,1148,US,IL,2542,2,-1
+49,11,UTF-8,Apache,-1,Unknown,Unknown,-1,0,-1
+49,9,UTF-8,nginx,-1,US,CA,3990,0,-1
+49,10,ISO-8859-1,Apache,-1,AU,Queensland,4018,0,-1
+49,12,iso-8859-1,Apache/2.2.16 (Unix) mod_ssl/2.2.16 OpenSSL/0.9.8e-fips-rhel5 mod_auth_passthrough/2.1 mod_bwlimited/1.4,506,Unknown,Unknown,-1,0,-1
+49,9,UTF-8,Apache-Coyote/1.1,-1,US,ca,6255,0,-1
+49,9,utf-8,Apache,5005,US,CA,7853,0,-1
+49,10,UTF-8,nginx/1.6.2,-1,CN,hunansheng,4573,0,-1
+49,7,ISO-8859-1,Apache,2367,US,Pennsylvania,4749,0,-1
+49,9,utf-8,ATS,-1,US,CA,3813,0,-1
+49,9,UTF-8,cloudflare-nginx,-1,US,WA,5789,0,-1
+49,9,ISO-8859-1,Play,2119,US,CA,5206,0,-1
+49,9,ISO-8859-1,Apache,128,US,MA,5604,0,-1
+49,11,UTF-8,mw2185.codfw.wmnet,-1,US,CA,5446,6,-1
+49,9,ISO-8859-1,nginx,162,US,TX,6001,6,-1
+49,10,utf-8,Apache,66441,US,MO,7462,4,-1
+49,12,utf-8,ATS,640,US,CA,7525,8,-1
+49,9,utf-8,Apache,44393,CA,ON,4701,0,-1
+49,10,utf-8,Apache/2.2.15 (Red Hat),6881,US,NY,9492,4,-1
+49,10,UTF-8,Server,-1,US,NV,7120,6,-1
+49,10,ISO-8859-1,nginx,1505,US,Ohio,4744,6,-1
+49,11,ISO-8859-1,Apache,1368,Unknown,Unknown,-1,0,-1
+49,10,ISO-8859-1,Apache,-1,AU,Queensland,4018,0,-1
+49,10,UTF-8,nginx,-1,US,FL,4654,0,-1
+49,9,ISO-8859-1,Unknown,-1,US,CA,7185,0,-1
+49,10,iso-8859-1,Apache,236,US,UT,7829,6,-1
+49,9,UTF-8,Apache/2.2.15 (CentOS),101,AU,NSW,4338,0,-1
+50,13,UTF-8,Apache,-1,CZ,PRAHA,3804,4,1
+50,11,UTF-8,nginx,640,Unknown,Unknown,-1,8,1
+50,11,ISO-8859-1,nginx/1.12.0,1108,UA,Unknown,4749,2,1
+50,12,ISO-8859-1,Unknown,1819,US,CA,5206,0,-1
+50,9,utf-8,Apache,43996,CA,ON,4701,0,-1
+50,10,ISO-8859-1,Apache,13076,US,IL,4004,0,-1
+50,10,UTF-8,Apache,6953,CA,Ontario,1598,0,-1
+50,10,utf-8,ATS,-1,US,CA,3813,10,-1
+50,9,utf-8,Server,-1,US,CA,4162,0,-1
+50,9,ISO-8859-1,Microsoft-IIS/7.5,3071,US,FL,6244,0,-1
+50,10,iso-8859-1,nginx,243,US,Wisconsin,2501,4,-1
+50,10,ISO-8859-1,Apache/2.4.10 (Unix) OpenSSL/1.0.1k,-1,Unknown,Unknown,-1,4,-1
+50,11,ISO-8859-1,Unknown,1819,US,CA,5206,8,-1
+50,10,utf-8,nginx,-1,US,NY,7410,8,-1
+50,11,us-ascii,Microsoft-HTTPAPI/2.0,324,US,CA,7633,4,-1
+50,11,ISO-8859-1,Apache,2797,Unknown,Unknown,-1,4,-1
+50,12,ISO-8859-1,Apache/Not telling (Unix) AuthTDS/1.1,-1,US,NY,7247,4,-1
+50,11,UTF-8,mw2255.codfw.wmnet,-1,US,CA,5446,8,-1
+50,9,ISO-8859-1,Unknown,1189,Unknown,Unknown,3287,6,-1
+50,9,UTF-8,nginx,24971,US,CA,7637,4,-1
+50,10,ISO-8859-1,Unknown,413,Unknown,Unknown,-1,4,-1
+50,9,utf-8,Microsoft-IIS/7.5,5316,US,FL,5113,2,-1
+50,11,UTF-8,Apache,435494,Unknown,Unknown,-1,2,-1
+50,14,iso-8859-1,Unknown,-1,US,CA,6935,6,-1
+50,9,us-ascii,Microsoft-IIS/7.5,324,US,California,4648,0,-1
+50,11,ISO-8859-1,Microsoft-IIS/7.5,1208,US,WA,5829,0,-1
+50,9,ISO-8859-1,nginx/1.10.3,1149,US,UTAH,3356,0,-1
+50,10,UTF-8,nginx,-1,US,CA,4147,0,-1
+50,10,UTF-8,Apache/2.2.15 (CentOS),1970,US,IL,7244,0,-1
+50,10,us-ascii,Microsoft-HTTPAPI/2.0,324,US,FL,7546,0,-1
+50,9,us-ascii,Microsoft-HTTPAPI/2.0,324,US,NJ,5407,0,-1
+51,14,UTF-8,Apache,-1,CZ,PRAHA,3804,2,1
+51,14,ISO-8859-1,cloudflare-nginx,-1,US,WA,6658,0,1
+51,10,ISO-8859-1,DOSarrest,-1,KY,GRAND CAYMAN,3625,0,-1
+51,10,us-ascii,Microsoft-IIS/7.5,324,Unknown,Unknown,4648,0,-1
+51,10,UTF-8,Apache/2.2.32,-1,US,PA,4338,0,-1
+51,8,UTF-8,Apache/2.4.6 (CentOS),25866,US,CA,6889,0,-1
+51,10,ISO-8859-1,nginx,6130,US,Utr,3623,0,-1
+51,9,ISO-8859-1,Unknown,-1,US,CA,7185,0,-1
+51,10,iso-8859-1,Apache/2.2.11 (Unix) PHP/5.2.6,231,CN,beijingshi,6229,2,-1
+51,9,utf-8,Scratch Web Server,10333,Unknown,Unknown,-1,0,-1
+51,10,utf-8,Apache,9890,Unknown,Unknown,-1,0,-1
+51,9,ISO-8859-1,Unknown,6748,US,California,5034,0,-1
+51,12,ISO-8859-1,Unknown,1819,US,CA,5206,0,-1
+51,8,ISO-8859-1,nginx,162,US,Washington,4018,0,-1
+51,10,us-ascii,Microsoft-HTTPAPI/2.0,324,Unknown,Unknown,-1,0,-1
+51,11,us-ascii,Microsoft-HTTPAPI/2.0,324,Unknown,Unknown,5889,2,-1
+51,10,utf-8,cloudflare-nginx,-1,US,CO,7303,6,-1
+51,11,utf-8,nginx/1.4.6 (Ubuntu),58090,US,CA,3097,0,-1
+51,10,UTF-8,nginx,-1,US,CA,4694,6,-1
+51,11,UTF-8,Unknown,-1,US,WA,5464,4,-1
+51,9,utf-8,Unknown,15302,US,Arizona,5668,0,-1
+51,11,iso-8859-1,Apache,239,US,UT,7829,0,-1
+51,9,ISO-8859-1,Unknown,-1,US,CA,7185,0,-1
+51,8,ISO-8859-1,Apache,57,US,VA,4372,0,-1
+51,11,ISO-8859-1,Apache,557,US,Arizona,6174,0,-1
+52,14,UTF-8,Apache,-1,CZ,PRAHA,3804,2,1
+52,12,UTF-8,marrakesh 1.12.2,13650,BR,Unknown,-1,6,1
+52,14,Unknown,Apache/2.4.6 (CentOS),-1,CN,Bei Jing,4208,4,1
+52,9,ISO-8859-1,Unknown,-1,US,CA,7185,0,-1
+52,12,ISO-8859-1,nginx/1.10.3,-1,US,VA,8949,0,-1
+52,10,utf-8,nginx/0.8.35,17302,US,CA,3986,0,-1
+52,10,UTF-8,Apache/2.2.15 (Red Hat),5315,US,CA,7610,0,-1
+52,10,ISO-8859-1,nginx,1516,US,Ohio,4744,0,-1
+52,11,UTF-8,mw2182.codfw.wmnet,-1,US,CA,5446,0,-1
+52,12,UTF-8,LiteSpeed,-1,PA,PANAMA,3936,0,-1
+52,10,UTF-8,Apache,-1,US,CA,6940,0,-1
+52,10,ISO-8859-1,squid/3.3.8,3529,US,CA,8254,0,-1
+52,12,UTF-8,Unknown,-1,US,CA,6935,0,-1
+52,11,UTF-8,Apache,8105,CH,ZH,6873,4,-1
+52,10,ISO-8859-1,Apache/2.2.27 (CentOS),1235,US,NY,6746,0,-1
+52,9,ISO-8859-1,Microsoft-IIS/7.5,11,US,WA,5829,0,-1
+52,10,UTF-8,Apache-Coyote/1.1,-1,US,NJ,7791,0,-1
+52,9,UTF-8,nginx/1.8.1,9662,Unknown,Unknown,3275,4,-1
+52,9,utf-8,Apache,44313,CA,ON,4701,0,-1
+52,10,us-ascii,Unknown,257,US,WA,6325,0,-1
+52,11,UTF-8,cloudflare-nginx,-1,Unknown,Unknown,-1,0,-1
+52,11,UTF-8,Apache/2.4.7 (Ubuntu),-1,Unknown,Unknown,6908,2,-1
+52,9,UTF-8,cloudflare-nginx,-1,CA,ON,6629,4,-1
+52,10,utf-8,Apache,17167,Unknown,Unknown,6707,4,-1
+52,10,UTF-8,Server,-1,US,NV,7120,6,-1
+52,8,utf-8,nginx/1.10.0,-1,Unknown,Unknown,4750,4,-1
+52,11,UTF-8,nginx/1.12.0,-1,Unknown,Unknown,-1,4,-1
+52,11,Unknown,Microsoft-IIS/8.5,0,US,NJ,8045,4,-1
+52,11,ISO-8859-1,Nginx (OpenBSD),14863,HK,-,2254,2,-1
+52,10,us-ascii,Unknown,257,US,WA,6325,8,-1
+52,10,ISO-8859-1,Apache,5443,CA,Quebec,3245,0,-1
+52,9,utf-8,Zope/(2.13.16; python 2.6.8; linux2) ZServer/1.1,28239,Unknown,Unknown,-1,4,-1
+52,8,utf-8,nginx,-1,AU,QLD,110,0,-1
+52,10,UTF-8,nginx,-1,CA,Manitoba,5108,0,-1
+52,11,utf-8,ATS,-1,US,CA,7525,0,-1
+52,11,UTF-8,GSE,9801,US,CA,5812,0,-1
+53,12,ISO-8859-1,nginx/1.12.0,242,US,ALABAMA,3653,2,1
+53,11,ISO-8859-1,Unknown,-1,US,CA,7185,0,-1
+53,10,UTF-8,nginx,-1,US,CO,6571,0,-1
+53,8,utf-8,Unknown,11158,US,PA,6807,0,-1
+53,10,UTF-8,nginx/1.11.10,-1,CA,Quebec,7006,0,-1
+53,12,UTF-8,Unknown,-1,US,CA,6935,0,-1
+53,11,utf-8,nginx/1.10.1,-1,Unknown,Unknown,-1,0,-1
+53,10,ISO-8859-1,Apache/2.2.26 (Unix) mod_ssl/2.2.26 OpenSSL/0.9.8e-fips-rhel5 mod_bwlimited/1.4 PHP/5.4.26,22897,Unknown,Unknown,3227,0,-1
+53,11,UTF-8,Apache/2.2.31 (Amazon),8466,US,NH,4292,0,-1
+53,10,UTF-8,nginx/1.11.10,-1,CA,Quebec,7006,0,-1
+53,9,UTF-8,Apache/2.2.21 (Unix) mod_ssl/2.2.21 OpenSSL/0.9.8e-fips-rhel5 PHP/5.3.10,2023,US,GA,3425,0,-1
+53,7,iso-8859-1,ATS/5.3.0,-1,CA,ON,5450,6,-1
+53,12,iso-8859-1,Apache,211,Unknown,Unknown,5016,6,-1
+53,12,ISO-8859-1,Apache,359174,CA,ON,7304,4,-1
+53,9,us-ascii,Microsoft-HTTPAPI/2.0,324,Unknown,Unknown,-1,0,-1
+53,10,us-ascii,Microsoft-HTTPAPI/2.0,324,United Kingdom,Unknown,-1,0,-1
+53,11,ISO-8859-1,cloudflare-nginx,-1,Unknown,Unknown,2603,4,-1
+53,12,UTF-8,Unknown,-1,US,WA,5464,0,-1
+53,9,UTF-8,nginx,20309,US,CA,7637,0,-1
+54,11,iso-8859-1,Apache,228,US,Arizona,4025,4,1
+54,11,ISO-8859-1,Apache/2,17140,US,CA,3623,2,1
+54,11,ISO-8859-1,Microsoft-IIS/7.5,7849,US,PA,6807,0,-1
+54,12,UTF-8,cloudflare-nginx,-1,Unknown,Unknown,-1,0,-1
+54,9,iso-8859-1,Apache/2.2.31 (Unix) mod_ssl/2.2.31 OpenSSL/1.0.1e-fips mod_bwlimited/1.4 mod_fcgid/2.3.9,341,US,MI,4786,0,-1
+54,12,ISO-8859-1,Apache/2.2.27 (Unix) OpenAM Web Agent/4.0.1-1 mod_ssl/2.2.27 OpenSSL/1.0.1p PHP/5.3.28,2503,Unknown,Unknown,-1,0,-1
+54,9,us-ascii,Microsoft-HTTPAPI/2.0,324,US,FL,5277,0,-1
+54,12,ISO-8859-1,Apache/2.2.15 (Red Hat),-1,Unknown,Unknown,-1,0,-1
+54,8,ISO-8859-1,Microsoft-IIS/7.5,11,US,WA,5829,0,-1
+54,11,utf-8,ATS,-1,US,CA,7525,0,-1
+54,9,ISO-8859-1,Apache/2.2.32,3020,CA,ON,6964,4,-1
+54,12,UTF-8,nginx/1.10.3,-1,US,VA,8949,0,-1
+54,12,UTF-8,mw2104.codfw.wmnet,-1,US,CA,5446,0,-1
+54,10,UTF-8,Apache-Coyote/1.1,-1,CN,Zhejiang,4815,0,-1
+54,12,ISO-8859-1,Apache/2.2.15 (Red Hat),-1,Unknown,Unknown,-1,0,-1
+54,10,ISO-8859-1,cloudflare-nginx,18952,US,CA,3871,4,-1
+54,9,ISO-8859-1,Unknown,-1,US,CA,7185,6,-1
+54,10,utf-8,Server,-1,US,CA,4162,6,-1
+54,10,ISO-8859-1,Apache,5438,US,TX,6073,4,-1
+54,12,ISO-8859-1,Apache/2.2.15 (Red Hat),-1,Unknown,Unknown,-1,8,-1
+54,9,UTF-8,Apache,193,US,WA,296,2,-1
+54,9,us-ascii,Microsoft-HTTPAPI/2.0,324,Unknown,Unknown,4384,6,-1
+54,11,UTF-8,Apache,26,US,FL,6865,6,-1
+54,10,UTF-8,nginx/1.4.6 (Ubuntu),-1,US,CA,7663,4,-1
+54,10,UTF-8,mw2230.codfw.wmnet,20518,US,CA,5446,8,-1
+54,12,utf-8,Unknown,1682,US,FL,5782,4,-1
+54,11,UTF-8,Apache/2.4.25 (cPanel) OpenSSL/1.0.1e-fips mod_bwlimited/1.4,9208,AU,NSW,5163,0,-1
+54,12,us-ascii,Microsoft-HTTPAPI/2.0,324,Unknown,Unknown,5934,0,-1
+54,11,iso-8859-1,cloudflare-nginx,-1,US,MA,6618,0,-1
+55,12,UTF-8,Apache,-1,CZ,PRAHA,3804,2,1
+55,12,ISO-8859-1,Apache/2.2.31 (CentOS),-1,PA,PANAMA,4370,8,1
+55,10,ISO-8859-1,Apache,14953,US,NY,4118,0,-1
+55,9,UTF-8,Apache,2080,US,CA,6663,0,-1
+55,12,utf-8,Apache/2.4.7 (Ubuntu),-1,US,Illinois,4750,0,-1
+55,10,UTF-8,nginx,12275,US,MA,7001,0,-1
+55,11,ISO-8859-1,.V01 Apache,-1,US,CA,6570,0,-1
+55,10,UTF-8,Apache,-1,US,FL,7270,0,-1
+55,12,utf-8,ATS,-1,US,CA,7525,0,-1
+55,9,UTF-8,cloudflare-nginx,-1,SI,Not Applicable,4516,0,-1
+55,10,UTF-8,mw2164.codfw.wmnet,-1,US,CA,5446,0,-1
+55,12,utf-8,Apache,66702,US,MO,7462,0,-1
+55,8,utf-8,nginx/1.10.0,-1,Unknown,Unknown,4750,2,-1
+55,11,UTF-8,mw2110.codfw.wmnet,-1,US,CA,5446,8,-1
+55,12,UTF-8,cloudflare-nginx,-1,BS,New Providence,4013,0,-1
+55,9,UTF-8,nginx/1.10.1,-1,US,FL,6316,0,-1
+55,10,UTF-8,Apache/2.4.6 (Unix) mod_jk/1.2.37 PHP/5.5.1 OpenSSL/1.0.1g mod_fcgid/2.3.9,13898,US,DE,7852,4,-1
+55,10,utf-8,Apache,44324,CA,ON,4701,0,-1
+55,12,UTF-8,mw2176.codfw.wmnet,-1,US,CA,5446,0,-1
+55,10,UTF-8,mw2187.codfw.wmnet,-1,US,CA,4762,0,-1
+55,12,UTF-8,Server,-1,US,NV,7120,6,-1
+55,10,utf-8,ATS,-1,US,CA,3813,8,-1
+55,10,UTF-8,mw2239.codfw.wmnet,-1,US,CA,5446,4,-1
+55,9,ISO-8859-1,Unknown,-1,US,CA,7185,10,-1
+55,9,ISO-8859-1,Unknown,-1,US,CA,7185,6,-1
+55,9,ISO-8859-1,Unknown,-1,US,CA,7185,10,-1
+55,11,UTF-8,Server,-1,US,NV,7120,6,-1
+55,10,UTF-8,Microsoft-IIS/8.5,20474,US,WI,6574,0,-1
+55,12,ISO-8859-1,Unknown,1819,US,CA,5206,0,-1
+55,10,UTF-8,mw2106.codfw.wmnet,40179,US,CA,4762,0,-1
+55,11,us-ascii,Microsoft-HTTPAPI/2.0,324,AU,Unknown,2922,0,-1
+56,11,iso-8859-1,nginx/1.10.1,-1,PK,Punjab,1098,2,1
+56,8,iso-8859-1,Apache,257,US,CA,6124,0,-1
+56,12,ISO-8859-1,Unknown,25471,Unknown,Unknown,-1,0,-1
+56,11,utf-8,Apache/2.2.15 (CentOS),7215,US,CA,5327,0,-1
+56,11,Unknown,Microsoft-IIS/7.0,0,US,New York,6619,0,-1
+56,12,ISO-8859-1,Unknown,1819,US,CA,5206,0,-1
+56,9,UTF-8,Apache/2.2.15 (CentOS),965,CA,qc,6523,0,-1
+56,10,ISO-8859-1,Unknown,-1,US,CA,7185,0,-1
+56,12,UTF-8,Apache,3042,US,CA,5524,0,-1
+56,10,us-ascii,Microsoft-HTTPAPI/2.0,324,US,CO,7937,0,-1
+56,11,UTF-8,Apache-Coyote/1.1,8741,US,GA,4967,0,-1
+56,10,UTF-8,Unknown,-1,US,Connecticut,7215,0,-1
+56,10,UTF-8,nginx,14672,PA,PANAMA,6171,0,-1
+56,9,ISO-8859-1,Unknown,-1,US,CA,7185,12,-1
+56,11,iso-8859-1,Apache,229,Unknown,Unknown,5432,0,-1
+56,9,ISO-8859-1,Unknown,-1,US,CA,7185,6,-1
+56,11,us-ascii,Microsoft-HTTPAPI/2.0,324,AU,Unknown,2922,6,-1
+56,11,iso-8859-1,Apache,189,Unknown,Unknown,4351,6,-1
+56,9,us-ascii,Microsoft-HTTPAPI/2.0,324,US,Nevada,4750,2,-1
+56,9,ISO-8859-1,Apache/1.3.42 Ben-SSL/1.60 (Unix) mod_gzip/1.3.26.1a mod_fastcgi/2.4.6 mod_throttle/3.1.2 Chili!Soft-ASP/3.6.2 FrontPage/5.0.2.2635 mod_perl/1.31 PHP/4.4.9,-1,CA,Quebec,5116,6,-1
+56,12,UTF-8,nginx/1.6.2,-1,CN,hunansheng,4573,4,-1
+56,13,utf-8,Apache,67283,US,MO,7462,6,-1
+56,12,ISO-8859-1,nginx,1523,US,Ohio,4744,8,-1
+56,10,us-ascii,Microsoft-HTTPAPI/2.0,324,US,Arizona,4985,6,-1
+56,12,UTF-8,mw2228.codfw.wmnet,-1,US,CA,5446,8,-1
+56,9,ISO-8859-1,Apache,1264,IL,il,2998,0,-1
+56,9,iso-8859-1,Apache,225,Unknown,Unknown,-1,0,-1
+56,11,ISO-8859-1,Aeria Games & Entertainment,17072,DE,Berlin,3865,0,-1
+56,11,utf-8,Apache,17541,US,CA,6682,0,-1
+56,10,utf-8,nginx/1.12.0,-1,US,FL,5844,0,-1
+56,11,utf-8,nginx/1.6.3 + Phusion Passenger,-1,Unknown,Unknown,5145,4,-1
+56,11,ISO-8859-1,nginx/1.12.0,-1,US,Arizona,4173,0,-1
+56,11,UTF-8,Apache/2.4.10 (Debian) PHP/5.6.30-0+deb8u1 mod_perl/2.0.9dev Perl/v5.20.2,3782,PA,PANAMA,4297,0,-1
+57,9,iso-8859-1,Apache,355,US,FL,6762,0,-1
+57,11,UTF-8,mw2173.codfw.wmnet,7340,US,CA,5446,0,-1
+57,11,utf-8,Apache/2.2.29 (Unix) mod_ssl/2.2.29 OpenSSL/1.0.1e-fips mod_bwlimited/1.4 PHP/5.4.35,5796,US,Arizona,5844,0,-1
+57,10,UTF-8,Server,-1,US,NV,7120,0,-1
+57,9,ISO-8859-1,Unknown,-1,US,CA,7185,0,-1
+57,11,utf-8,Apache/2.4.6 (Red Hat Enterprise Linux) OpenSSL/1.0.1e-fips mod_fcgid/2.3.9 Communique/4.2.0,448,Unknown,Unknown,-1,0,-1
+57,11,UTF-8,Apache-Coyote/1.1,17249,Unknown,Unknown,5853,0,-1
+57,11,us-ascii,Microsoft-HTTPAPI/2.0,324,Unknown,Unknown,5918,0,-1
+57,10,us-ascii,Microsoft-HTTPAPI/2.0,324,US,UT,5610,0,-1
+57,12,utf-8,Unknown,20504,US,NY,6910,0,-1
+57,12,utf-8,Apache/2.2.31 (Amazon),6828,Unknown,Unknown,2071,0,-1
+57,10,ISO-8859-1,Unknown,-1,US,CA,7185,12,-1
+57,10,ISO-8859-1,nginx,1510,US,Ohio,4744,6,-1
+57,10,UTF-8,nginx,-1,SE,INDAL,3651,2,-1
+57,10,UTF-8,Apache,-1,Unknown,Unknown,5814,4,-1
+57,12,ISO-8859-1,Apache/2.2.15 (CentOS) DAV/2 mod_ssl/2.2.15 OpenSSL/1.0.1e-fips PHP/5.3.3,11202,US,IL,8944,4,-1
+57,9,UTF-8,Apache/2.4.6 (CentOS) OpenSSL/1.0.1e-fips PHP/7.0.14,6588,JP,Osaka,0,4,-1
+57,10,iso-8859-1,Apache/2,345,US,CA,6537,2,-1
+57,13,UTF-8,cloudflare-nginx,-1,US,NY,4809,6,-1
+57,11,UTF-8,Server,-1,US,NV,7120,6,-1
+57,11,iso-8859-1,nginx,234,US,NY,5815,4,-1
+57,10,ISO-8859-1,Apache,21046,US,NY,4118,4,-1
+57,11,utf-8,Microsoft-IIS/7.0,23463,IT,RM,4018,4,-1
+57,10,us-ascii,Microsoft-HTTPAPI/2.0,324,Unknown,Unknown,-1,4,-1
+57,11,utf-8,Apache,-1,US,CO,4380,2,-1
+57,11,iso-8859-1,Apache,241,US,UT,7829,0,-1
+57,7,UTF-8,Apache/2.2.31 (Amazon),1182,Unknown,Unknown,4175,4,-1
+57,12,UTF-8,nginx,-1,US,Arizona,3060,0,-1
+57,13,UTF-8,mw2198.codfw.wmnet,-1,US,CA,5446,0,-1
+57,11,ISO-8859-1,Apache,10280,US,IL,4004,0,-1
+58,12,UTF-8,Apache,-1,CZ,PRAHA,3804,2,1
+58,13,UTF-8,nginx/1.12.0,5962,US,UTAH,3653,4,1
+58,12,utf-8,Apache,-1,US,NY,8312,0,-1
+58,8,UTF-8,Apache,58,US,MA,2536,0,-1
+58,10,us-ascii,Microsoft-HTTPAPI/2.0,324,US,UT,5610,0,-1
+58,11,us-ascii,Microsoft-HTTPAPI/2.0,324,AU,Unknown,2922,0,-1
+58,9,ISO-8859-1,nginx/1.12.0,-1,US,Illinois,1478,0,-1
+58,11,utf-8,nginx/1.6.3 + Phusion Passenger,-1,US,Arizona,5145,0,-1
+58,10,UTF-8,GSE,208082,US,CA,5812,0,-1
+58,11,us-ascii,Unknown,-1,US,WA,6325,0,-1
+58,11,ISO-8859-1,nginx/1.12.0,-1,CA,QC,4355,0,-1
+58,8,iso-8859-1,Apache/2,345,US,FL,5586,4,-1
+58,12,us-ascii,Microsoft-HTTPAPI/2.0,324,US,CA,5641,8,-1
+58,10,ISO-8859-1,nginx,-1,CA,ON,6572,2,-1
+58,9,us-ascii,Unknown,324,US,CO,7638,4,-1
+58,9,us-ascii,Microsoft-HTTPAPI/2.0,324,Unknown,Unknown,4556,4,-1
+58,10,UTF-8,Apache/2.4.6 (CentOS) OpenSSL/1.0.1e-fips PHP/5.4.16,1688,US,Arizona,5427,0,-1
+58,11,UTF-8,mw2172.codfw.wmnet,-1,US,CA,5446,8,-1
+58,11,UTF-8,nginx,-1,Unknown,Unknown,3705,6,-1
+58,9,ISO-8859-1,nginx/1.2.6,-1,US,Arizona,5081,0,-1
+58,11,UTF-8,Server,-1,US,NV,7120,0,-1
+58,11,ISO-8859-1,Server,1179,US,NV,7120,0,-1
+58,12,utf-8,nginx/1.8.0,90837,US,va,8368,0,-1
+59,11,UTF-8,Server,-1,US,NV,7120,0,-1
+59,11,utf-8,cloudflare-nginx,-1,US,Arizona,5286,0,-1
+59,10,iso-8859-1,Unknown,-1,Unknown,Unknown,4024,0,-1
+59,11,iso-8859-1,Apache/2.2.15 (CentOS),-1,US,UT,7829,0,-1
+59,10,utf-8,Microsoft-IIS/8.5,26958,Unknown,Unknown,7225,6,-1
+59,12,utf-8,nginx,162,BS,New Providence,3252,0,-1
+59,10,UTF-8,Apache/2.4.6 (Unix) mod_jk/1.2.37,19404,US,IL,7643,0,-1
+59,11,ISO-8859-1,nginx,162,US,Virginia,6276,0,-1
+59,10,us-ascii,Unknown,324,US,FL,5450,0,-1
+59,10,iso-8859-1,Apache/2.4.23 (Unix) OpenSSL/1.0.1e-fips mod_bwlimited/1.4,352,CN,Unknown,3528,0,-1
+59,9,ISO-8859-1,Unknown,-1,US,CA,7185,0,-1
+59,11,utf-8,Unknown,7697,Unknown,Unknown,-1,0,-1
+59,10,us-ascii,Unknown,324,US,FL,5450,0,-1
+59,13,UTF-8,Unknown,9322,US,AZ,4018,0,-1
+59,10,UTF-8,Apache/2.2.22 (Debian),-1,FR,Unknown,7381,0,-1
+59,11,UTF-8,Apache/2.4.25 (Unix) OpenSSL/1.0.1e-fips mod_bwlimited/1.4,-1,Unknown,Unknown,5179,0,-1
+59,15,UTF-8,ATS,-1,US,CA,7525,8,-1
+59,9,ISO-8859-1,nginx,12629,US,CA,3875,2,-1
+59,11,us-ascii,Microsoft-HTTPAPI/2.0,324,AU,Unknown,2922,6,-1
+59,9,us-ascii,Unknown,324,US,CO,7638,4,-1
+59,13,ISO-8859-1,nginx/1.4.4,-1,US,UT,7062,0,-1
+59,13,us-ascii,Microsoft-HTTPAPI/2.0,324,US,UT,7829,4,-1
+59,11,ISO-8859-1,Apache,5290,US,FL,5784,4,-1
+59,11,utf-8,Unknown,12965,US,FL,5844,4,-1
+59,13,us-ascii,Microsoft-IIS/7.5,324,US,Missouri,6536,6,-1
+59,11,ISO-8859-1,cloudflare-nginx,-1,NL,ZH,4619,4,-1
+59,10,UTF-8,Apache,-1,US,WA,4020,4,-1
+59,12,utf-8,nginx,162,BS,New Providence,3252,8,-1
+59,11,ISO-8859-1,Apache/2.2.22 (Ubuntu),125,US,Oregon,7044,6,-1
+59,12,ISO-8859-1,nginx,1511,US,Ohio,4744,0,-1
+59,11,ISO-8859-1,Apache,5290,US,FL,5784,0,-1
+59,12,UTF-8,cloudflare-nginx,-1,US,FL,4741,4,-1
+59,10,utf-8,Microsoft-IIS/8.5,19867,Unknown,Unknown,7225,8,-1
+59,13,iso-8859-1,nginx/1.2.1,-1,Unknown,Unknown,-1,0,-1
+60,11,ISO-8859-1,Apache,-1,US,UT,7829,0,-1
+60,11,iso-8859-1,Apache,198,HK,Unknown,1,2,-1
+60,11,ISO-8859-1,Unknown,1973,Unknown,Unknown,-1,0,-1
+60,10,utf-8,cloudflare-nginx,-1,US,CA,6542,0,-1
+60,11,iso-8859-1,Apache,243,US,UT,7829,0,-1
+60,11,us-ascii,Microsoft-HTTPAPI/2.0,324,CH,Unknown,7300,0,-1
+60,10,utf-8,Cowboy,21666,US,CA,2553,0,-1
+60,12,UTF-8,nginx,-1,US,CA,4694,0,-1
+60,10,UTF-8,Apache/2.2.22 (Debian),8774,KR,Unknown,713,0,-1
+60,13,ISO-8859-1,Unknown,1819,US,CA,5206,0,-1
+60,11,UTF-8,nginx/1.2.1,2544,Unknown,Unknown,-1,0,-1
+60,13,utf-8,Apache,-1,Unknown,Unknown,6150,0,-1
+60,11,ISO-8859-1,cloudflare-nginx,-1,US,Illinois,4991,6,-1
+60,12,iso-8859-1,nginx,-1,CA,BC,6257,2,-1
+60,9,us-ascii,Microsoft-HTTPAPI/2.0,324,US,PA,4192,2,-1
+60,11,ISO-8859-1,Apache,-1,CA,BC,4317,6,-1
+60,11,UTF-8,Apache,40582,US,ny,7639,6,-1
+60,13,UTF-8,mw2113.codfw.wmnet,-1,US,CA,5446,6,-1
+60,11,utf-8,Unknown,19671,US,CA,5544,8,-1
+60,13,utf-8,Microsoft-IIS/7.5,-1,GB,London,6767,9,-1
+60,12,UTF-8,Apache,-1,Unknown,Unknown,5419,4,-1
+60,12,UTF-8,cloudflare-nginx,-1,US,FL,7266,2,-1
+60,11,utf-8,nginx,-1,US,California,3258,4,-1
+60,9,utf-8,Apache/2.2.14 (Unix) mod_ssl/2.2.14 OpenSSL/0.9.8a,824,US,OH,4750,0,-1
+60,13,UTF-8,Apache,-1,US,VA,8012,0,-1
+61,12,ISO-8859-1,Apache,526,DE,Unknown,4750,0,1
+61,10,us-ascii,Microsoft-IIS/7.5,324,US,AZ,3288,0,-1
+61,12,ISO-8859-1,Apache/2.4.7 (Ubuntu),4576,US,FL,4172,0,-1
+61,12,UTF-8,Apache/2.2.15 (Red Hat),39198,Unknown,Unknown,5853,0,-1
+61,11,us-ascii,cloudflare-nginx,-1,US,FL,7948,0,-1
+61,10,ISO-8859-1,Apache,6473,Unknown,Unknown,-1,0,-1
+61,9,ISO-8859-1,Microsoft-IIS/7.5,11,US,WA,5829,0,-1
+61,11,ISO-8859-1,Apache/2.4.10 (Ubuntu),11780,US,WA,6985,8,-1
+61,12,ISO-8859-1,Apache,-1,US,CA,7543,2,-1
+61,12,ISO-8859-1,nginx,1522,US,Ohio,4744,0,-1
+61,12,ISO-8859-1,Apache,-1,Unknown,Unknown,5009,0,-1
+61,9,ISO-8859-1,nginx/1.12.0,-1,Unknown,Unknown,722,0,-1
+61,10,UTF-8,Server,-1,US,NV,7120,0,-1
+61,11,us-ascii,Unknown,257,US,WA,6325,0,-1
+61,12,UTF-8,Server,-1,US,NV,7120,0,-1
+61,11,us-ascii,Unknown,257,US,WA,6325,0,-1
+61,11,ISO-8859-1,Apache,-1,US,DE,6415,0,-1
+61,11,utf-8,Apache,8864,Unknown,Unknown,7276,8,-1
+61,13,ISO-8859-1,Apache,267,US,NY,5812,4,-1
+61,13,UTF-8,cloudflare-nginx,-1,US,WA,2169,8,-1
+61,11,utf-8,nginx,-1,US,California,3258,4,-1
+61,14,utf-8,Microsoft-IIS/7.5,25090,Unknown,Unknown,-1,0,-1
+61,10,ISO-8859-1,nginx/1.12.0,4347,US,CO,3189,0,-1
+62,13,ISO-8859-1,Apache,6567,US,FL,5784,6,-1
+62,13,UTF-8,mw2224.codfw.wmnet,-1,US,CA,5446,0,-1
+62,12,UTF-8,nginx,-1,Unknown,Unknown,3705,0,-1
+62,13,ISO-8859-1,Apache,6567,US,FL,5784,0,-1
+62,12,ISO-8859-1,Apache,20986,US,NY,4118,0,-1
+62,12,UTF-8,mw2171.codfw.wmnet,-1,US,CA,5446,0,-1
+62,13,UTF-8,Apache,12440,CA,Ontario,2134,0,-1
+62,10,iso-8859-1,Apache/2.4.25 (Amazon) OpenSSL/1.0.1k-fips,245,US,Missouri,3996,0,-1
+62,9,us-ascii,Microsoft-HTTPAPI/2.0,324,US,PA,4050,0,-1
+62,11,iso-8859-1,Apache/2.2.15 (CentOS),-1,US,UT,7829,4,-1
+62,11,utf-8,AmazonS3,382,Unknown,Unknown,5035,4,-1
+62,11,UTF-8,Apache/2.2.3 (CentOS),2192,IN,MAHARASHTR,4821,6,-1
+62,11,us-ascii,Microsoft-IIS/7.5,324,US,California,4648,0,-1
+62,12,UTF-8,GSE,9285,US,CA,5812,0,-1
+62,12,ISO-8859-1,Apache,-1,AU,Queensland,4018,0,-1
+63,14,ISO-8859-1,cloudflare-nginx,-1,Unknown,Unknown,3282,4,-1
+63,12,utf-8,Apache/2.2.15 (CentOS),7221,US,CA,5327,0,-1
+63,11,UTF-8,mw2257.codfw.wmnet,14506,US,CA,5446,0,-1
+63,13,UTF-8,mw2226.codfw.wmnet,-1,US,CA,5446,0,-1
+63,12,UTF-8,Apache,-1,US,Arizona,3654,0,-1
+63,11,us-ascii,Microsoft-HTTPAPI/2.0,324,Unknown,Unknown,-1,6,-1
+63,11,ISO-8859-1,cloudflare-nginx,-1,Unknown,Unknown,4652,0,-1
+63,10,us-ascii,Microsoft-HTTPAPI/2.0,324,US,WA,7387,0,-1
+63,9,iso-8859-1,Apache/2,345,Unknown,Unknown,3957,0,-1
+63,12,UTF-8,Apache,-1,Unknown,Unknown,-1,4,-1
+63,12,us-ascii,Microsoft-HTTPAPI/2.0,1853,Unknown,Unknown,6777,2,-1
+63,14,ISO-8859-1,Apache,-1,CA,ONTARIO,4354,4,-1
+63,11,ISO-8859-1,Apache,3475,US,OH,5449,2,-1
+63,11,utf-8,DMS/1.0.42,42913,FR,Unknown,4123,4,-1
+63,13,us-ascii,Microsoft-HTTPAPI/2.0,324,US,UT,7829,6,-1
+63,12,UTF-8,nginx,-1,US,Illinois,6021,4,-1
+63,11,ISO-8859-1,Unknown,-1,US,CA,7185,0,-1
+63,10,UTF-8,Apache,18235,US,WA,3801,2,-1
+63,10,us-ascii,Microsoft-HTTPAPI/2.0,324,US,PA,4192,6,-1
+63,10,UTF-8,ATS,-1,US,CA,7525,10,-1
+63,14,iso-8859-1,Apache/2.0.52 (Red Hat),320,Unknown,Unknown,-1,6,-1
+63,11,ISO-8859-1,Apache,5858,Unknown,Unknown,-1,6,-1
+64,11,UTF-8,nginx/1.6.3,-1,US,WA,3503,0,-1
+64,13,ISO-8859-1,Apache,-1,US,CA,7246,0,-1
+64,11,UTF-8,nginx/1.8.1,9418,UK,Unknown,8553,0,-1
+64,13,ISO-8859-1,Apache,19111,US,NY,4118,0,-1
+64,13,UTF-8,Server,-1,US,NV,7120,0,-1
+64,10,UTF-8,Apache-Coyote/1.1,-1,US,ca,6255,0,-1
+64,10,UTF-8,Apache,-1,IN,Haryana,7075,2,-1
+64,11,UTF-8,Apache-Coyote/1.1,-1,US,nj,4808,0,-1
+64,12,UTF-8,Unknown,-1,US,CA,6935,0,-1
+64,11,utf-8,nginx/1.12.0,-1,Unknown,Unknown,5844,0,-1
+64,13,UTF-8,Server,-1,US,NV,7120,4,-1
+64,11,ISO-8859-1,Apache,9498,GB,MIDDLESEX,3646,4,-1
+64,11,UTF-8,Server,-1,US,NV,7120,10,-1
+64,10,us-ascii,Microsoft-HTTPAPI/2.0,324,US,WA,7387,4,-1
+64,13,us-ascii,Microsoft-IIS/7.5,324,NO,Rogaland,4030,8,-1
+64,13,UTF-8,Application-Server,32344,US,TX,8370,0,-1
+64,14,UTF-8,cloudflare-nginx,-1,US,FL,6515,0,-1
+64,11,ISO-8859-1,Unknown,34,US,FL,5477,0,-1
+65,11,ISO-8859-1,Microsoft-IIS/7.0,3830,Unknown,Unknown,-1,0,-1
+65,12,UTF-8,Server,-1,US,NV,7120,0,-1
+65,11,ISO-8859-1,Apache,36377,US,NY,7569,0,-1
+65,12,utf-8,nginx + Phusion Passenger,-1,CA,ON,2468,8,-1
+65,14,utf-8,nginx,-1,US,California,3258,0,-1
+65,14,UTF-8,nginx,-1,US,IL,8944,0,-1
+65,10,ISO-8859-1,Unknown,-1,US,CA,7185,6,-1
+65,12,utf-8,cloudflare-nginx,-1,US,CO,7303,4,-1
+65,11,ISO-8859-1,Apache/2.2.15 (Red Hat),12339,Unknown,Unknown,5906,4,-1
+65,14,utf-8,Apache,-1,US,WA,3619,4,-1
+65,13,iso-8859-1,Apache/2.2.15 (Red Hat),330,Unknown,Unknown,-1,4,-1
+65,12,ISO-8859-1,Apache,-1,US,DE,6570,8,-1
+65,11,iso-8859-1,Apache,245,US,UT,7829,0,-1
+65,11,UTF-8,nginx/1.10.3,40035,US,NY,3989,0,-1
+66,14,UTF-8,Apache,58,US,MA,732,4,1
+66,13,UTF-8,Apache/2.2.3 (CentOS),14750,Unknown,Unknown,-1,0,-1
+66,10,UTF-8,ATS,-1,US,CA,7525,0,-1
+66,12,UTF-8,Server,-1,US,NV,7120,0,-1
+66,11,UTF-8,,9405,US,District of Columbia,5115,0,-1
+66,10,utf-8,cloudflare-nginx,-1,Unknown,Unknown,5552,0,-1
+66,12,iso-8859-1,Apache/2.4.25 (Amazon) OpenSSL/1.0.1k-fips,251,Unknown,Unknown,4988,4,-1
+66,15,UTF-8,cloudflare-nginx,-1,CA,ON,4090,0,-1
+66,11,iso-8859-1,Apache,241,US,DC,7408,0,-1
+66,15,ISO-8859-1,Apache,36571,Unknown,Unknown,4730,0,-1
+67,14,utf-8,nginx/1.4.6 (Ubuntu),-1,US,AZ,7115,6,1
+67,14,utf-8,ATS,-1,US,CA,7525,0,-1
+67,12,UTF-8,Apache/2.4.6 (CentOS) mod_fcgid/2.3.9 PHP/5.6.30,-1,Unknown,Unknown,2142,0,-1
+67,9,ISO-8859-1,Apache/2.2.29 (Unix) mod_ssl/2.2.29 OpenSSL/1.0.1e-fips mod_bwlimited/1.4,4440,US,Arizona,4425,0,-1
+67,10,UTF-8,LiteSpeed,-1,US,FL,3951,0,-1
+67,9,us-ascii,Microsoft-HTTPAPI/2.0,324,US,PA,4192,6,-1
+67,9,iso-8859-1,Apache,355,Unknown,Unknown,6149,0,-1
+67,10,UTF-8,nginx/1.12.0,3640,US,Kansas,6174,0,-1
+67,13,iso-8859-1,Apache,317,US,California,2977,0,-1
+67,12,ISO-8859-1,Apache,197,US,FL,6228,4,-1
+67,12,ISO-8859-1,Apache,15742,US,NY,4118,4,-1
+67,14,UTF-8,mw2177.codfw.wmnet,4710,US,CA,5446,8,-1
+67,11,utf-8,Apache,26117,US,CO,4579,4,-1
+67,13,UTF-8,Jetty(9.0.z-SNAPSHOT),-1,US,NY,6459,2,-1
+67,13,utf-8,Apache-Coyote/1.1,-1,US,OH,7642,6,-1
+68,13,UTF-8,nginx/1.8.1,13340,CA,Ontario,3275,0,-1
+68,13,ISO-8859-1,Apache,-1,US,NY,8312,0,-1
+68,12,ISO-8859-1,Oracle-iPlanet-Web-Server/7.0,3257,Unknown,Unknown,6040,0,-1
+68,11,utf-8,lighttpd/1.4.28,6795,SE,Unknown,2715,2,-1
+68,12,utf-8,cloudflare-nginx,-1,US,MA,5277,0,-1
+68,12,utf-8,ATS,-1,US,CA,7525,0,-1
+68,14,UTF-8,Apache,12606,US,NY,5628,4,-1
+68,13,utf-8,nginx,-1,US,Arizona,3060,4,-1
+68,15,UTF-8,Server,-1,US,NV,7120,6,-1
+68,12,UTF-8,mw2197.codfw.wmnet,12503,US,CA,5446,8,-1
+68,14,UTF-8,nginx,-1,US,Nevada,4655,4,-1
+68,11,UTF-8,nginx,-1,US,Arizona,4093,4,-1
+68,11,iso-8859-1,nginx/1.12.0,-1,GB,HANTS,3726,0,-1
+68,12,UTF-8,Server,-1,US,NV,7120,0,-1
+69,13,UTF-8,Apache,194,US,PA,0,4,1
+69,14,UTF-8,GSE,3933,US,CA,5812,0,-1
+69,13,UTF-8,nginx/1.12.0,13920,CA,ONTARIO,1827,0,-1
+69,13,iso-8859-1,Apache/2.2.31 (FreeBSD) PHP/5.4.15 mod_ssl/2.2.31 OpenSSL/1.0.2d DAV/2,248,Unknown,Unknown,5856,4,-1
+69,12,ISO-8859-1,nginx,1500,US,Ohio,6553,0,-1
+69,11,UTF-8,ATS,-1,US,CA,7525,0,-1
+69,11,UTF-8,nginx/1.8.1,12564,UK,Unknown,8553,0,-1
+69,13,ISO-8859-1,nginx/1.4.6 (Ubuntu),-1,PA,PANAMA,2994,2,-1
+69,12,UTF-8,Server,-1,US,NV,7120,0,-1
+69,12,ISO-8859-1,Apache,-1,US,UT,7829,0,-1
+69,11,UTF-8,Apache-Coyote/1.1,-1,US,California,4681,0,-1
+69,12,ISO-8859-1,Unknown,-1,US,CA,7185,6,-1
+69,12,iso-8859-1,Apache,360,Cyprus,Unknown,3397,4,-1
+69,13,utf-8,ATS,-1,US,CA,7525,4,-1
+69,12,UTF-8,Server,-1,US,NV,7120,6,-1
+69,11,utf-8,nginx,-1,US,Illinois,2658,6,-1
+69,11,utf-8,Apache,-1,Unknown,Unknown,3931,4,-1
+69,14,UTF-8,Jetty(9.0.z-SNAPSHOT),-1,US,NY,6459,4,-1
+69,14,UTF-8,GSE,33493,US,CA,5812,0,-1
+70,12,UTF-8,Apache,-1,Unknown,Unknown,-1,2,1
+70,15,utf-8,Apache,61974,US,MO,7462,0,-1
+70,13,ISO-8859-1,Microsoft-IIS/8.5,65423,CA,ON,6195,0,-1
+70,15,us-ascii,Microsoft-HTTPAPI/2.0,324,Unknown,Unknown,-1,0,-1
+70,14,iso-8859-1,Apache/2.2.26 (Unix) mod_ssl/2.2.26 OpenSSL/1.0.1e-fips DAV/2 mod_bwlimited/1.4,518,AU,Queensland,4734,0,-1
+70,13,UTF-8,cloudflare-nginx,-1,US,California,5886,0,-1
+70,14,ISO-8859-1,Apache/2.2.15 (CentOS) DAV/2 mod_ssl/2.2.15 OpenSSL/1.0.1e-fips PHP/5.3.3,8742,US,IL,8944,0,-1
+70,12,ISO-8859-1,Apache/2.2.24 (Unix) DAV/2 PHP/5.3.26 mod_ssl/2.2.24 OpenSSL/0.9.8y,-1,Unknown,Unknown,6574,4,-1
+70,12,UTF-8,mw2178.codfw.wmnet,-1,US,CA,5446,0,-1
+70,15,UTF-8,294,11397,Unknown,Unknown,3299,10,-1
+70,15,UTF-8,nginx,-1,US,CA,6159,0,-1
+70,13,ISO-8859-1,Microsoft-IIS/6.0,118672,CA,Quebec,3944,0,-1
+70,13,ISO-8859-1,Apache,8187,CH,Zug,6907,0,-1
+70,13,UTF-8,nginx,-1,PA,PANAMA,2959,0,-1
+70,10,ISO-8859-1,Microsoft-IIS/7.5,356,US,New York,4377,0,-1
+70,13,ISO-8859-1,Apache,-1,Unknown,Unknown,-1,6,-1
+70,13,us-ascii,Microsoft-HTTPAPI/2.0,324,US,VT,7244,4,-1
+70,12,utf-8,Microsoft-IIS/7.5,41417,US,MO,-1,2,-1
+70,14,utf-8,Microsoft-IIS/7.5,13481,US,VA,8031,6,-1
+70,12,ISO-8859-1,nginx/1.2.1,-1,US,NV,6434,4,-1
+70,14,UTF-8,nginx,23103,US,California,7670,0,-1
+70,13,ISO-8859-1,Microsoft-IIS/7.5,11,US,WA,5829,0,-1
+70,13,UTF-8,nginx,-1,US,CA,7849,0,-1
+71,6,us-ascii,Microsoft-HTTPAPI/2.0,324,US,Oregon,3842,0,-1
+71,16,ISO-8859-1,cloudflare-nginx,-1,US,Washington,6343,0,-1
+71,14,UTF-8,GSE,8992,CA,ON,2018,0,-1
+71,13,UTF-8,Server,-1,US,NV,7120,0,-1
+71,13,UTF-8,GSE,11988,US,CA,5812,6,-1
+71,12,ISO-8859-1,Unknown,34,CA,ON,6564,4,-1
+71,12,UTF-8,Apache,13522,US,CA,7672,6,-1
+71,11,utf-8,nginx/1.7.4,-1,PA,PANAMA,6337,4,-1
+71,12,utf-8,DMS/1.0.42,318,FR,Unknown,4123,4,-1
+71,14,utf-8,nginx,337,Unknown,Unknown,-1,8,-1
+71,11,utf-8,ATS,-1,US,CA,7525,8,-1
+71,14,UTF-8,Server,-1,Unknown,Unknown,-1,6,-1
+71,12,UTF-8,Server,-1,US,NV,7120,6,-1
+71,11,UTF-8,Apache-Coyote/1.1,13596,IN,TN,-1,4,-1
+71,11,us-ascii,Microsoft-IIS/7.5,324,us,CA,3422,0,-1
+71,15,us-ascii,Microsoft-HTTPAPI/2.0,324,TR,Unknown,2553,0,-1
+72,14,us-ascii,cloudflare-nginx,324,CA,ON,5005,0,-1
+72,14,utf-8,nginx,31624,[u'GB'; u'UK'],UK,5465,0,-1
+72,16,utf-8,Apache/2.2.22 (Debian) mod_python/3.3.1 Python/2.7.3 mod_ssl/2.2.22 OpenSSL/1.0.1t,-1,US,NY,8016,0,-1
+72,12,UTF-8,Unknown,-1,KR,Unknown,6701,0,-1
+72,12,us-ascii,Microsoft-HTTPAPI/2.0,1853,US,NY,6939,0,-1
+72,12,ISO-8859-1,Apache,-1,US,UT,7829,0,-1
+72,15,UTF-8,Apache/2.4.16 (Ubuntu),-1,US,CA,5114,6,-1
+72,13,UTF-8,Apache/2.2.27 (CentOS),-1,Unknown,Unknown,-1,0,-1
+72,14,utf-8,Microsoft-IIS/7.5,14092,US,VA,8031,0,-1
+72,12,UTF-8,Server,-1,US,NV,7120,6,-1
+72,9,ISO-8859-1,Apache/2.2.26 (Unix) mod_ssl/2.2.26 OpenSSL/0.9.8e-fips-rhel5 mod_bwlimited/1.4 PHP/5.4.26,2819,BE,ANTWERP,4402,6,-1
+72,15,ISO-8859-1,Unknown,33528,Unknown,Unknown,-1,4,-1
+72,12,iso-8859-1,Apache,363,Cyprus,Unknown,3521,4,-1
+72,13,utf-8,Apache,1832,Unknown,Unknown,2558,6,-1
+72,12,us-ascii,www.lexisnexis.com  9999,324,CH,CH,2501,4,-1
+72,14,UTF-8,nginx,-1,PA,PANAMA,2959,0,-1
+72,11,iso-8859-1,Apache-Coyote/1.1,-1,US,Tennessee,3630,0,-1
+72,11,ISO-8859-1,nginx,1145,US,NJ,6775,0,-1
+73,14,UTF-8,cloudflare-nginx,-1,US,LA,4105,0,-1
+73,17,ISO-8859-1,Apache/2.4.7 (Ubuntu),13240,US,PA,2923,0,-1
+73,13,iso-8859-1,Apache/2.2.15 (CentOS),-1,US,UT,7829,0,-1
+73,14,utf-8,Unknown,32103,US,NY,3240,0,-1
+73,15,iso-8859-1,nginx,484,US,Arizona,3032,0,-1
+73,13,iso-8859-1,Apache/2.2.15 (CentOS),-1,US,UT,7829,0,-1
+73,13,iso-8859-1,Apache/2.2.15 (CentOS),-1,US,UT,7829,6,-1
+73,15,iso-8859-1,Apache/2.0.52 (Red Hat),330,US,CA,4774,0,-1
+73,15,utf-8,Apache,44491,CA,ON,4701,2,-1
+73,11,UTF-8,Apache/2.4.18 (Ubuntu),12487,US,Illinois,6111,0,-1
+73,11,UTF-8,GSE,3674,US,CA,5812,0,-1
+73,17,UTF-8,cloudflare-nginx,-1,JP,TOKYO-TO,3414,0,-1
+73,15,ISO-8859-1,squid/3.3.8,3591,US,CA,8254,6,-1
+73,12,UTF-8,Apache-Coyote/1.1,17908,Unknown,Unknown,2303,6,-1
+73,13,ISO-8859-1,nginx/0.8.38,18901,US,MA,6115,4,-1
+73,12,UTF-8,Server,-1,US,NV,7120,6,-1
+73,17,UTF-8,mw2242.codfw.wmnet,-1,US,CA,5446,0,-1
+74,11,ISO-8859-1,cloudflare-nginx,-1,ru,Krasnoyarsk,2441,8,1
+74,12,us-ascii,Microsoft-IIS/7.5,324,US,Pennsylvania,4357,0,-1
+74,15,UTF-8,Apache-Coyote/1.1,46884,Unknown,Unknown,4211,0,-1
+74,13,UTF-8,Server,-1,US,NV,7120,0,-1
+74,12,us-ascii,Microsoft-HTTPAPI/2.0,324,CA,Saskatchewan,5834,0,-1
+74,16,UTF-8,nginx,-1,US,NJ,6148,6,-1
+74,13,utf-8,Unknown,-1,US,TX,7503,4,-1
+75,13,UTF-8,Apache,193,US,PA,792,2,1
+75,15,UTF-8,GSE,8417,US,CA,5812,0,-1
+75,16,ISO-8859-1,Unknown,-1,US,NJ,8045,8,-1
+75,14,UTF-8,mw2238.codfw.wmnet,4721,US,CA,5446,0,-1
+75,13,us-ascii,Microsoft-HTTPAPI/2.0,324,Unknown,Unknown,4556,4,-1
+75,14,utf-8,GSE,-1,US,CA,5056,10,-1
+75,12,UTF-8,Pizza/pepperoni,-1,US,WA,7651,0,-1
+75,15,ISO-8859-1,cloudflare-nginx,-1,US,FL,5784,0,-1
+76,13,ISO-8859-1,Microsoft-IIS/6.0,92183,CA,Quebec,3944,0,-1
+76,15,ISO-8859-1,Unknown,12368,US,CA,6935,8,-1
+76,12,us-ascii,Microsoft-HTTPAPI/2.0,324,Unknown,Unknown,2483,6,-1
+76,13,us-ascii,Microsoft-IIS/7.5,324,Unknown,Unknown,-1,6,-1
+76,12,UTF-8,Apache,9672,US,Alabama,7029,0,-1
+76,14,UTF-8,XXXXXXXXXXXXXXXXXXXXXX,17721,Unknown,Unknown,5723,0,-1
+77,15,us-ascii,Microsoft-HTTPAPI/2.0,324,US,UT,5610,0,-1
+77,13,ISO-8859-1,Apache,-1,US,UT,7829,0,-1
+77,14,us-ascii,Microsoft-HTTPAPI/2.0,324,US,CO,776,0,-1
+77,14,ISO-8859-1,Sucuri/Cloudproxy,-1,Unknown,Unknown,4019,2,-1
+77,14,UTF-8,GSE,22409,US,CA,5812,4,-1
+77,13,utf-8,nginx/1.8.0,63049,US,va,7063,10,-1
+77,14,utf-8,ATS,-1,US,CA,7525,6,-1
+78,10,utf-8,Apache,23146,US,NY,8312,0,-1
+78,16,UTF-8,cloudflare-nginx,-1,US,LA,4105,6,-1
+78,17,UTF-8,mw2165.codfw.wmnet,-1,US,CA,5446,0,-1
+78,11,UTF-8,cloudflare-nginx,-1,US,WA,3738,0,-1
+78,15,iso-8859-1,Apache,13,JP,Tottori,4,0,-1
+78,16,UTF-8,GSE,9313,US,CA,5812,0,-1
+78,13,UTF-8,Unknown,28508,US,NY,7666,0,-1
+78,15,ISO-8859-1,Varnish,9,US,DC,4014,0,-1
+78,13,UTF-8,mw2224.codfw.wmnet,-1,US,CA,5446,8,-1
+78,10,utf-8,Apache,23144,US,NY,8312,6,-1
+78,12,UTF-8,Pizza/pepperoni,13707,US,WA,7651,4,-1
+78,13,ISO-8859-1,Microsoft-IIS/7.5,11,US,WA,5829,4,-1
+78,12,UTF-8,Server,-1,US,NV,7120,0,-1
+78,17,iso-8859-1,Apache,-1,US,UT,7829,0,-1
+78,16,ISO-8859-1,MI,2743,US,CA,7634,4,-1
+79,13,ISO-8859-1,Microsoft-IIS/8.5,1245,US,Arkansas,5833,0,-1
+79,14,ISO-8859-1,Unknown,6748,CA,QC,6878,0,-1
+79,14,utf-8,cloudflare-nginx,-1,US,PA,3750,0,-1
+79,9,UTF-8,Unknown,53420,US,NJ,8031,0,-1
+79,15,UTF-8,Apache-Coyote/1.1,46887,US,Washington,4211,0,-1
+79,15,UTF-8,Apache,-1,US,Arizona,2192,0,-1
+79,16,ISO-8859-1,Roxen/5.4.98-r2,11593,US,IL,6210,6,-1
+79,15,UTF-8,Apache/2.2.31 (Unix) mod_ssl/2.2.31 OpenSSL/1.0.1e-fips mod_bwlimited/1.4,-1,Unknown,Unknown,5465,2,-1
+80,16,UTF-8,Unknown,7240,US,California,7493,0,-1
+80,12,UTF-8,Apache,471,US,CA,4607,0,-1
+80,12,UTF-8,GSE,38149,US,CA,5812,4,-1
+80,15,UTF-8,Unknown,-1,US,CA,6935,0,-1
+80,13,utf-8,cloudflare-nginx,-1,US,CA,7525,10,-1
+80,17,ISO-8859-1,nginx/1.2.1,8619,BY,--,4672,0,-1
+80,14,us-ascii,Microsoft-HTTPAPI/2.0,324,Unknown,Unknown,4192,0,-1
+80,13,ISO-8859-1,nginx/1.1.19,-1,Unknown,Unknown,6524,4,-1
+80,11,us-ascii,Microsoft-HTTPAPI/2.0,324,US,CA,4925,8,-1
+80,16,UTF-8,Server,-1,US,NV,7120,0,-1
+80,13,UTF-8,GSE,11326,US,CA,5812,0,-1
+80,12,iso-8859-1,Apache,236,US,AZ,6935,0,-1
+81,17,utf-8,Microsoft-IIS/6.0,-1,US,California,4745,0,1
+81,17,utf-8,Microsoft-IIS/6.0,-1,US,California,4745,0,1
+81,14,UTF-8,GSE,10527,US,CA,5812,4,-1
+81,18,iso-8859-1,Apache/2.2.15 (CentOS),213,US,OK,6166,4,-1
+81,16,us-ascii,Microsoft-HTTPAPI/2.0,324,US,UT,5610,0,-1
+81,15,UTF-8,Apache,-1,Unknown,Unknown,-1,8,-1
+81,13,us-ascii,Microsoft-HTTPAPI/2.0,324,US,NY,3957,6,-1
+81,11,UTF-8,cloudflare-nginx,-1,US,WA,2165,8,-1
+81,16,UTF-8,cloudflare-nginx,-1,US,FL,6515,4,-1
+81,15,ISO-8859-1,Apache,-1,US,Illinois,3414,4,-1
+81,12,ISO-8859-1,Apache,4897,US,Florida,6033,4,-1
+82,17,utf-8,Microsoft-IIS/6.0,-1,US,California,4745,0,1
+82,17,utf-8,Microsoft-IIS/6.0,-1,US,California,4745,0,1
+82,17,utf-8,Microsoft-IIS/6.0,-1,US,California,4745,0,1
+82,17,utf-8,Microsoft-IIS/6.0,-1,US,California,4745,0,1
+82,13,ISO-8859-1,nginx/1.10.1,8521,PA,PANAMA,4776,0,-1
+82,17,us-ascii,Microsoft-HTTPAPI/2.0,324,US,WA,7272,0,-1
+82,14,UTF-8,Unknown,-1,Unknown,Unknown,5947,0,-1
+82,17,ISO-8859-1,Apache/2.4.7 (Ubuntu),9101,Unknown,Unknown,4078,8,-1
+82,17,UTF-8,cloudflare-nginx,-1,US,FL,7626,2,-1
+82,13,us-ascii,Microsoft-HTTPAPI/2.0,324,US,Florida,2483,6,-1
+82,18,UTF-8,GSE,53520,US,CA,5812,4,-1
+82,12,ISO-8859-1,Apache,-1,US,Florida,5824,0,-1
+82,14,UTF-8,cloudflare-nginx,-1,Unknown,Unknown,7671,6,-1
+83,17,utf-8,Microsoft-IIS/6.0,-1,US,California,4745,0,1
+83,17,UTF-8,Server,-1,US,NV,7120,0,-1
+83,11,UTF-8,Apache,-1,JP,Fukuoka,1054,6,-1
+83,16,UTF-8,nginx/1.9.13,-1,US,WA,7258,0,-1
+83,21,UTF-8,nginx/1.6.2,2034,US,CO,2910,4,-1
+83,14,utf-8,cloudflare-nginx,-1,Unknown,Unknown,5151,8,-1
+83,15,UTF-8,GSE,34930,US,CA,5812,4,-1
+83,19,ISO-8859-1,Apache/2.2.22 (Debian),5866,AE,Dubai,2132,6,-1
+83,13,ISO-8859-1,nginx,162,US,Minnesota,7237,4,-1
+83,17,UTF-8,Apache-Coyote/1.1,46886,Unknown,Unknown,4211,0,-1
+84,15,UTF-8,Apache/2.2.22 (Debian),11323,US,Washington,5115,4,1
+84,17,UTF-8,Apache,12773,US,UTAH,4018,0,-1
+84,12,ISO-8859-1,Apache/2.2.15 (CentOS),23412,US,Arizona,4010,0,-1
+84,15,utf-8,Apache,8326,US,Texas,5996,0,-1
+84,14,ISO-8859-1,Unknown,-1,US,CA,7185,6,-1
+84,14,UTF-8,GSE,11243,US,CA,5812,0,-1
+85,13,UTF-8,Apache/2.2.22 (Debian),8364,US,Washington,4749,6,1
+85,18,ISO-8859-1,Unknown,-1,US,NJ,7432,0,-1
+85,12,UTF-8,cloudflare-nginx,-1,US,WA,2165,0,-1
+85,15,UTF-8,GSE,27976,US,CA,5812,0,-1
+86,15,UTF-8,GSE,-1,US,CA,5812,0,-1
+86,17,UTF-8,Apache,58,US,MI,130,0,-1
+86,16,utf-8,Apache/2.4.25,3500,US,Arizona,3788,0,-1
+86,17,utf-8,Unknown,959,US,WA,6030,0,-1
+86,13,ISO-8859-1,Roxen/5.4.98-r2,13747,US,IL,4384,6,-1
+86,16,UTF-8,GSE,14291,US,CA,5812,4,-1
+86,15,utf-8,cloudflare-nginx,-1,US,California,6341,4,-1
+86,16,UTF-8,Apache/2.2.15 (CentOS),15108,US,CA,5112,0,-1
+87,17,UTF-8,nginx,-1,US,California,5094,0,-1
+87,13,UTF-8,mw2180.codfw.wmnet,15187,US,CA,5446,6,-1
+87,18,UTF-8,nginx,-1,US,FL,2902,0,-1
+87,15,utf-8,Microsoft-IIS/7.5,9083,US,va,7063,6,-1
+87,14,us-ascii,Microsoft-HTTPAPI/2.0,324,US,KS,6938,4,-1
+87,16,UTF-8,nginx,30824,US,CA,8370,6,-1
+87,16,UTF-8,GSE,48831,US,CA,5812,0,-1
+88,14,us-ascii,Microsoft-HTTPAPI/2.0,257,US,NY,7640,0,-1
+88,15,iso-8859-1,Unknown,411,US,WV,7642,0,-1
+88,17,utf-8,Microsoft-IIS/7.5,9084,US,va,7063,0,-1
+88,17,UTF-8,cloudflare-nginx,-1,CA,ON,3137,0,-1
+88,16,UTF-8,nginx/1.11.10,-1,Unknown,Unknown,7006,4,-1
+88,15,UTF-8,Pizza/pepperoni,13776,US,WA,7651,4,-1
+88,15,UTF-8,Apache,-1,Unknown,Unknown,2557,4,-1
+88,13,utf-8,Apache,33799,US,NY,8033,6,-1
+88,16,utf-8,Microsoft-IIS/7.5,9083,US,va,7063,0,-1
+89,18,UTF-8,Apache,-1,ES,Barcelona,2907,0,1
+89,12,utf-8,Unknown,30193,US,GA,7989,0,-1
+89,20,UTF-8,Apache/2.2.14 (Ubuntu),-1,US,CA,5448,0,-1
+89,16,UTF-8,cloudflare-nginx,-1,US,New York,6447,0,-1
+89,13,us-ascii,Microsoft-HTTPAPI/2.0,324,US,CA,4893,0,-1
+89,14,utf-8,Microsoft-IIS/8.5,246324,Unknown,Unknown,-1,0,-1
+89,16,utf-8,cloudflare-nginx,0,US,IL,8944,0,-1
+89,17,UTF-8,GSE,37836,US,CA,5812,4,-1
+89,15,utf-8,Apache,19856,US,NY,8312,6,-1
+89,20,utf-8,ebay server,-1,US,CA,7846,4,-1
+90,15,utf-8,nginx/1.6.2,-1,Unknown,Unknown,6034,0,-1
+90,16,UTF-8,nginx/1.9.13,40605,US,TX,5729,0,-1
+90,17,iso-8859-1,Apache,392,US,New York,2578,0,-1
+90,17,UTF-8,nginx/0.8.55,-1,CA,ON,3360,6,-1
+90,16,utf-8,nginx,19793,US,IL,7911,4,-1
+90,17,utf-8,ebay server,-1,US,CA,7846,0,-1
+90,16,UTF-8,ebay server,-1,US,CA,7846,0,-1
+91,17,UTF-8,GSE,38155,US,CA,5812,4,-1
+91,14,UTF-8,Apache,9406,IE,CO. DUBLIN,2762,4,-1
+91,19,UTF-8,Apache/2.2.22,20,PH,Metro Manila,4372,0,-1
+92,19,UTF-8,Apache/2.4.7 (Ubuntu),5610,US,MI,5925,0,-1
+92,18,UTF-8,Apache,30285,US,NY,8398,0,-1
+92,17,utf-8,Microsoft-IIS/7.5,9084,US,va,7063,6,-1
+92,18,utf-8,Apache,11363,Unknown,Unknown,-1,8,-1
+92,15,utf-8,Unknown,37687,US,FL,8122,6,-1
+92,16,utf-8,Unknown,38483,US,FL,8122,0,-1
+92,18,ISO-8859-1,Unknown,-1,US,CA,7185,0,-1
+93,19,utf-8,Microsoft-IIS/6.0,-1,US,California,4745,0,1
+93,19,ISO-8859-1,Microsoft-IIS/7.5,16479,US,va,7063,8,-1
+94,20,UTF-8,Apache,58,US,Massachusetts,408,8,1
+94,19,utf-8,Microsoft-IIS/6.0,-1,US,California,4745,0,1
+94,19,utf-8,Microsoft-IIS/6.0,-1,US,California,4745,0,1
+94,19,UTF-8,Apache/2.4.7 (Ubuntu),8404,US,Massachusetts,3288,6,-1
+95,19,utf-8,Microsoft-IIS/6.0,-1,US,California,4745,0,1
+95,19,utf-8,Microsoft-IIS/6.0,-1,US,California,4745,0,1
+95,14,utf-8,Microsoft-IIS/8.5,6783,GB,London,6924,0,-1
+95,19,UTF-8,nginx,-1,US,CA,6159,0,-1
+95,19,ISO-8859-1,nginx,162,Unknown,Unknown,3080,2,-1
+95,15,us-ascii,Microsoft-HTTPAPI/2.0,324,Unknown,Unknown,-1,0,-1
+95,19,ISO-8859-1,Varnish,9,US,DC,2552,0,-1
+96,18,utf-8,nginx/1.8.0,55367,US,va,7639,0,-1
+96,15,ISO-8859-1,Varnish,9,US,DC,3648,0,-1
+96,19,utf-8,nginx,-1,US,California,3258,0,-1
+97,15,UTF-8,Apache/2.2.22 (Debian),8755,UY,Montevideo,2548,0,1
+97,15,UTF-8,Apache/2.2.22 (Debian),8762,UY,Montevideo,2548,0,1
+97,17,UTF-8,cloudflare-nginx,-1,US,LA,4105,4,-1
+97,19,UTF-8,Apache,7778,Unknown,Unknown,-1,4,-1
+97,15,us-ascii,Microsoft-HTTPAPI/2.0,324,US,PA,3813,6,-1
+98,19,us-ascii,Microsoft-HTTPAPI/2.0,324,US,UT,5610,0,-1
+98,16,UTF-8,Microsoft-IIS/7.5,-1,Unknown,Unknown,6150,0,-1
+98,18,UTF-8,nginx,-1,KG,KG,3243,0,-1
+98,18,UTF-8,nginx,-1,US,nj,7639,8,-1
+98,16,utf-8,nginx,6730,US,CA,4017,6,-1
+98,18,UTF-8,nginx,-1,KG,KG,3243,4,-1
+99,20,UTF-8,Apache,-1,ES,Barcelona,2907,0,1
+99,20,UTF-8,Apache,-1,ES,Barcelona,2907,0,1
+99,14,ISO-8859-1,Apache/2.4.7 (Ubuntu),2743,US,IL,6147,0,-1
+99,16,UTF-8,Apache,12588,US,FLORIDA,3288,0,-1
+99,22,ISO-8859-1,Microsoft-IIS/7.5,2346,SC,Other,3,4,-1
+99,15,utf-8,Microsoft-IIS/8.5,-1,CA,ON,7718,4,-1
+100,20,UTF-8,Apache,-1,ES,Barcelona,2907,0,1
+100,20,UTF-8,Apache,-1,ES,Barcelona,2907,0,1
+100,20,UTF-8,Apache,-1,ES,Barcelona,2907,0,1
+100,20,UTF-8,Apache,-1,ES,Barcelona,2907,0,1
+100,20,UTF-8,Apache,-1,ES,Barcelona,2907,0,1
+100,20,UTF-8,Apache,-1,ES,Barcelona,2907,0,1
+100,20,UTF-8,Apache,-1,ES,Barcelona,2907,0,1
+100,20,UTF-8,Apache,-1,ES,Barcelona,2907,0,1
+100,20,UTF-8,Apache,-1,ES,Barcelona,2907,0,1
+100,20,UTF-8,Apache,-1,ES,Barcelona,2907,0,1
+100,20,UTF-8,Apache,-1,ES,Barcelona,2907,0,1
+100,20,UTF-8,Apache,-1,ES,Barcelona,2907,0,1
+100,20,UTF-8,Apache,-1,ES,Barcelona,2907,0,1
+100,20,UTF-8,Apache,-1,ES,Barcelona,2907,0,1
+100,20,UTF-8,Apache,-1,ES,Barcelona,2907,0,1
+100,20,UTF-8,Apache,-1,ES,Barcelona,2907,0,1
+100,20,UTF-8,Apache,-1,ES,Barcelona,2907,0,1
+100,20,UTF-8,Apache,-1,ES,Barcelona,2907,0,1
+100,20,UTF-8,Apache,-1,ES,Barcelona,2907,0,1
+100,20,UTF-8,Apache,-1,ES,Barcelona,2907,0,1
+100,20,UTF-8,Apache,-1,ES,Barcelona,2907,0,1
+100,20,UTF-8,Apache,-1,ES,Barcelona,2907,0,1
+100,20,UTF-8,Apache,-1,ES,Barcelona,2907,0,1
+100,20,UTF-8,Apache,-1,ES,Barcelona,2907,0,1
+100,17,utf-8,Apache,14060,Unknown,Unknown,5781,8,-1
+100,15,utf-8,nginx/1.4.6 (Ubuntu),-1,CA,British Columbia,4750,0,-1
+100,19,UTF-8,nginx/1.12.0,5272,CA,QUEBEC,2922,2,-1
+101,21,ISO-8859-1,nginx,-1,UK,Unknown,7671,0,-1
+101,20,utf-8,nginx,-1,US,California,3258,4,-1
+101,20,utf-8,Microsoft-IIS/8.5,4678,US,DE,3590,6,-1
+101,16,utf-8,Microsoft-IIS/8.5,-1,CA,ON,7718,0,-1
+101,20,UTF-8,GSE,11833,US,CA,5812,6,-1
+101,18,utf-8,nginx,27131,US,New York,8391,8,-1
+101,19,UTF-8,Apache,54473,US,FL,7871,4,-1
+101,15,UTF-8,Apache,7503,CA,ON,2556,,-1
+102,16,UTF-8,Microsoft-IIS/7.5,-1,CA,ON,6150,0,-1
+102,12,UTF-8,nginx/1.4.6 (Ubuntu),-1,US,CA,7663,0,-1
+102,20,ISO-8859-1,Varnish,9,US,DC,2552,0,-1
+102,17,ISO-8859-1,Apache,-1,US,NY,3287,6,-1
+102,18,utf-8,Unknown,24702,US,FL,8122,0,-1
+103,21,utf-8,Apache,15591,US,Washington,8149,0,-1
+103,17,utf-8,Apache-Coyote/1.1,15666,US,OH,5250,0,-1
+103,17,utf-8,Apache/2.2.10 (Linux/SUSE),-1,BE,Unknown,5925,0,-1
+103,16,UTF-8,cloudflare-nginx,-1,US,AZ,6529,0,-1
+103,20,utf-8,Apache/2.2.15 (CentOS),10843,US,California,3628,0,-1
+104,17,ISO-8859-1,Varnish,9,US,DC,4745,0,-1
+104,16,us-ascii,Microsoft-HTTPAPI/2.0,257,US,NY,6178,0,-1
+104,18,utf-8,nginx/1.4.6 (Ubuntu),-1,US,WA,4408,0,-1
+104,20,UTF-8,Unknown,-1,US,IL,69,4,-1
+104,17,UTF-8,nginx/1.12.0,-1,US,UT,7275,0,-1
+105,20,ISO-8859-1,Apache/2.2.29 (Unix) mod_ssl/2.2.29 OpenSSL/1.0.1e-fips mod_bwlimited/1.4,11230,Unknown,Unknown,-1,4,1
+105,21,UTF-8,Apache,26857,US,MO,7401,4,-1
+105,17,utf-8,Apache,14060,Unknown,Unknown,5781,0,-1
+105,22,utf-8,Apache,-1,US,NY,8396,0,-1
+106,21,utf-8,Apache,-1,US,NY,8312,0,-1
+106,18,utf-8,Unknown,65670,US,IL,7111,0,-1
+106,18,UTF-8,Apache,75176,US,MA,6206,0,-1
+106,19,us-ascii,Microsoft-HTTPAPI/2.0,324,US,CO,2170,6,-1
+106,19,UTF-8,Apache/2.4.7 (Ubuntu),15058,US,NY,8398,6,-1
+106,22,UTF-8,nginx/1.8.0,6298,US,CA,7638,0,-1
+107,23,UTF-8,Apache,25886,US,NY,8312,0,-1
+108,21,ISO-8859-1,nginx,162,US,CA,8358,0,-1
+108,23,utf-8,Microsoft-IIS/7.5,-1,US,NJ,6904,4,-1
+108,18,utf-8,nginx,-1,US,VA,7914,8,-1
+109,20,ISO-8859-1,Varnish,9,US,DC,3284,0,-1
+109,18,utf-8,nginx/1.7.12,33481,US,FL,8122,0,-1
+110,21,UTF-8,Apache,42290,Unknown,Unknown,2542,0,-1
+110,15,ISO-8859-1,Apache/2.0.63 (Unix) mod_ssl/2.0.63 OpenSSL/0.9.8e-fips-rhel5 mod_auth_passthrough/2.1 mod_bwlimited/1.4 PHP/5.3.6,22264,US,Florida,3628,4,-1
+111,22,UTF-8,Apache/2,12027,PA,PANAMA,3630,4,-1
+112,19,UTF-8,Apache,-1,Unknown,Unknown,2923,2,-1
+112,19,ISO-8859-1,nginx,162,us,California,6369,0,-1
+113,18,UTF-8,Apache,39517,US,MA,6206,0,-1
+113,21,ISO-8859-1,Boston.com Frontend,16230,US,MA,6715,0,-1
+114,17,ISO-8859-1,nginx,162,Unknown,Unknown,3343,0,-1
+114,23,utf-8,cloudflare-nginx,-1,US,DE,6254,0,-1
+114,19,UTF-8,cloudflare-nginx,-1,CA,bc,4657,0,-1
+114,18,ISO-8859-1,Unknown,36816,NL,Noord-Holland,5634,12,-1
+115,18,UTF-8,Jetty(9.0.z-SNAPSHOT),-1,US,NY,6459,0,-1
+115,20,UTF-8,Apache,10315,US,NY,8312,6,-1
+115,19,ISO-8859-1,nginx,-1,US,NY,5534,6,-1
+116,19,ISO-8859-1,Unknown,-1,FR,Paris,8006,0,-1
+116,18,us-ascii,Microsoft-HTTPAPI/2.0,324,CA,ON,6296,4,-1
+116,18,UTF-8,Apache,-1,US,MO,5476,4,-1
+117,22,UTF-8,nginx,-1,Unknown,Unknown,7303,6,-1
+117,19,UTF-8,Apache/2.2.15 (CentOS),6804,Unknown,Unknown,3333,4,-1
+118,28,UTF-8,nginx,-1,US,CA,6159,4,-1
+118,23,utf-8,ebay server,-1,US,CA,7846,4,-1
+120,20,us-ascii,Microsoft-HTTPAPI/2.0,324,US,NJ,6678,4,-1
+120,20,UTF-8,Apache,100163,US,MA,6715,4,-1
+122,22,UTF-8,Apache,-1,ES,Barcelona,2907,0,1
+122,23,UTF-8,Apache,-1,ES,Barcelona,2907,0,1
+122,23,UTF-8,My Arse,6121,US,Arizona,2142,0,-1
+122,21,ISO-8859-1,Apache,892,Unknown,Unknown,5931,2,-1
+123,24,UTF-8,Apache,-1,ES,Barcelona,2907,0,1
+123,25,UTF-8,Apache,-1,ES,Barcelona,2907,0,1
+123,18,UTF-8,Apache,73927,US,MA,6206,0,-1
+123,24,UTF-8,nginx,-1,US,NJ,8031,4,-1
+123,21,UTF-8,Apache,20,US,CA,2923,4,-1
+123,21,utf-8,Apache/2.4.7 (Ubuntu),5268,Unknown,Unknown,4596,2,-1
+124,23,UTF-8,Apache,-1,ES,Barcelona,2907,0,1
+124,24,UTF-8,Apache,-1,ES,Barcelona,2907,0,1
+125,20,utf-8,nginx,-1,US,California,3258,4,-1
+126,25,UTF-8,Apache,-1,ES,Barcelona,2907,0,1
+126,24,UTF-8,Apache,-1,ES,Barcelona,2907,0,1
+126,23,UTF-8,Apache,-1,ES,Barcelona,2907,0,1
+126,25,UTF-8,Apache,-1,ES,Barcelona,2907,0,1
+126,22,utf-8,IdeaWebServer/v0.80,-1,US,IL,6938,6,-1
+126,22,utf-8,Microsoft-IIS/7.5,9032,Unknown,Unknown,6544,0,-1
+126,19,utf-8,Apache/2.4.17 (Unix) OpenSSL/1.0.1e-fips PHP/5.6.19,6244,CH,Zug,6542,6,-1
+128,25,UTF-8,Apache,29840,UK,Unknown,7881,0,-1
+129,25,UTF-8,Apache,-1,ES,Barcelona,2907,0,1
+129,18,UTF-8,Apache,52552,US,MA,6206,0,-1
+131,36,ISO-8859-1,cloudflare-nginx,-1,US,WA,6658,0,1
+132,26,UTF-8,Apache,-1,ES,Barcelona,2907,0,1
+132,27,UTF-8,Apache,-1,ES,Barcelona,2907,0,1
+134,24,UTF-8,Apache,-1,ES,Barcelona,2907,0,1
+135,26,UTF-8,Apache,-1,ES,Barcelona,2907,0,1
+135,27,UTF-8,Apache,-1,ES,Barcelona,2907,0,1
+135,26,UTF-8,Apache,-1,ES,Barcelona,2907,0,1
+136,43,utf-8,Unknown,649263,Unknown,Unknown,6009,0,-1
+137,25,iso-8859-1,Apache/2,345,US,Arizona,4698,0,-1
+139,21,utf-8,Apache/2.2.15 (Red Hat),35170,Unknown,Unknown,-1,4,-1
+140,26,UTF-8,Apache,-1,ES,Barcelona,2907,0,1
+141,27,UTF-8,Apache,-1,ES,Barcelona,2907,0,1
+141,24,UTF-8,ATS,-1,US,CA,7525,8,-1
+141,30,UTF-8,openresty,-1,US,Arizona,3293,2,-1
+142,22,ISO-8859-1,Apache/2.2.15 (CentOS) DAV/2 mod_ssl/2.2.15 OpenSSL/1.0.1e-fips PHP/5.3.3,3929,US,IL,7256,4,-1
+143,26,UTF-8,Apache,-1,ES,Barcelona,2907,0,1
+143,27,UTF-8,Apache,-1,ES,Barcelona,2907,0,1
+143,22,ISO-8859-1,AkamaiGHost,374,US,DC,3660,0,-1
+144,21,utf-8,Apache,14060,Unknown,Unknown,5781,4,-1
+145,26,UTF-8,Apache,-1,ES,Barcelona,2907,0,1
+145,27,UTF-8,Apache,-1,ES,Barcelona,2907,0,1
+145,29,UTF-8,Apache,-1,ES,Barcelona,2907,0,1
+145,31,UTF-8,Unknown,38361,US,NY,7666,8,-1
+146,27,UTF-8,Apache,-1,ES,Barcelona,2907,0,1
+146,28,UTF-8,Apache,-1,ES,Barcelona,2907,0,1
+146,24,UTF-8,nginx,11833,US,Arizona,6833,4,-1
+149,23,ISO-8859-1,Unknown,6748,CA,Quebec,4528,0,-1
+150,26,UTF-8,Apache,-1,ES,Barcelona,2907,0,1
+151,29,UTF-8,Apache,-1,ES,Barcelona,2907,0,1
+154,21,UTF-8,Unknown,11104,US,UT,6441,8,-1
+156,31,UTF-8,Apache,-1,ES,Barcelona,2907,0,1
+160,29,UTF-8,Unknown,36829,US,CA,6879,6,-1
+161,23,iso-8859-1,Apache/2.4.18 (Ubuntu),417,Unknown,Unknown,1823,0,-1
+169,25,utf-8,cloudflare-nginx,-1,BS,New Providence,2547,0,-1
+170,17,UTF-8,Apache,-1,ES,Barcelona,2907,0,1
+173,34,UTF-8,Apache,-1,ES,Barcelona,2907,0,1
+178,16,UTF-8,Apache,-1,ES,Barcelona,2907,0,1
+183,29,ISO-8859-1,Microsoft-IIS/7.5; litigation_essentials.lexisnexis.com  9999,4890,US,NY,6354,8,-1
+194,17,UTF-8,Apache,-1,ES,Barcelona,2907,0,1
+194,16,UTF-8,Apache,-1,ES,Barcelona,2907,0,1
+198,17,UTF-8,Apache,-1,ES,Barcelona,2907,0,1
+201,34,utf-8,Apache/2.2.16 (Debian),8904,US,FL,5994,4,-1
+234,34,ISO-8859-1,cloudflare-nginx,-1,US,CA,6827,0,-1
+249,40,utf-8,Microsoft-IIS/8.5,24435,US,Wisconsin,1832,6,-1

@@ -1,0 +1,15 @@
+.next/
+__pycache__/
+node_modules/
+.env*
+*.log
+*.tsbuildinfo
+*.pt
+
+backend/models/SMS/*
+!backend/models/SMS/download*
+backend/routers/ad*
+backend/static/profile/*
+backend/static/screenshots/*
+backend/static/uploads/*
+*c446a56eca59*
